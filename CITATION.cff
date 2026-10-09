@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Please cite this reproducibility companion when using its code or results."
+type: software
+title: "ASITA 2026: Multisource Data Integration for Air Quality Monitoring and Spatial Prediction — Reproducibility Companion"
+version: 1.0.0
+date-released: 2026-10-09
+url: "https://github.com/carminelau/asita2026-air-quality-reconstruction"
+repository-code: "https://github.com/carminelau/asita2026-air-quality-reconstruction"
+authors:
+  - family-names: Laudato
+    given-names: Carmine
+    orcid: "https://orcid.org/0009-0002-3266-7726"
+  - family-names: Sebillo
+    given-names: Monica
+    orcid: "https://orcid.org/0000-0003-3731-6415"
+  - family-names: Battistoni
+    given-names: Pietro
+    orcid: "https://orcid.org/0000-0002-7477-2439"
+  - family-names: Sofia
+    given-names: Daniele
+    orcid: "https://orcid.org/0000-0002-9712-6018"
+keywords:
+  - air quality
+  - spatial reconstruction
+  - unseen-station validation
+  - particulate matter
+  - multisource data integration

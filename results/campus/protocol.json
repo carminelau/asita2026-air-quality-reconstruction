@@ -1,0 +1,26 @@
+{
+  "protocol": {
+    "bootstrap_block_days": 7,
+    "bootstrap_iterations": 2000,
+    "distance_floor_m": 10.0,
+    "idw_power": 2.0,
+    "min_arpac_hours": 18,
+    "min_rf_rows": 150,
+    "requests_per_minute": 59.0,
+    "seed": 42
+  },
+  "software": {
+    "matplotlib": "3.11.1",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "python": "3.12.13",
+    "scikit_learn": "1.9.0"
+  },
+  "fixed_split": {
+    "test_end": "2026-08-13",
+    "test_start": "2026-07-24",
+    "train_end": "2026-07-23",
+    "train_start": "2026-05-01"
+  },
+  "seed": 42
+}

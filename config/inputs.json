@@ -1,0 +1,2091 @@
+{
+  "milan": [
+    {
+      "path": "data/processed/cams_milano_city_hourly.csv",
+      "sha256": "735676db7126f6bc49c0b55227f6518e7a0c2c1d1e5c42a19faeec8231059fa6"
+    },
+    {
+      "path": "data/processed/good_dataset/milano_city_good_dataset.csv",
+      "sha256": "7743f8b942a1cd394a1c2df4d355e9d8a06d9b91c2ca6ba69d091cd3486305d6"
+    },
+    {
+      "path": "data/processed/openmeteo_milano_city_hourly.csv",
+      "sha256": "9dc3f3189555e1d2a931a1de57ef594387c42cb2aa01fc52566838034fe0e541"
+    }
+  ],
+  "campania": [
+    {
+      "path": "data/raw/arpac_salerno/arpac_station_metadata.csv",
+      "sha256": "592147a6f96a37fdce4de9d389741e96e2f862ff0fe35bfac2e63548d669767d",
+      "bytes": 12548
+    },
+    {
+      "path": "data/raw/arpac_salerno/arpac_rqa_2026_05.csv",
+      "sha256": "3a40a7fdce426ac391b207464f1877e8c797b3a298a75096ba2e3e8d75aaa2ce",
+      "bytes": 11516265
+    },
+    {
+      "path": "data/raw/arpac_salerno/arpac_rqa_2026_06.csv",
+      "sha256": "a56a0a0ff0ee62b7bf02b7b5fe0486602d9b830bcc2ffb23b3b7939eb3513416",
+      "bytes": 11788756
+    },
+    {
+      "path": "data/raw/arpac_salerno/arpac_rqa_2026_07.csv",
+      "sha256": "4df89ab3948e6939ab35a859e32f21114b74fdecefab0787ea991486640457b7",
+      "bytes": 11891142
+    },
+    {
+      "path": "data/raw/arpac_salerno/arpac_rqa_2026_08.csv",
+      "sha256": "066b393f4554258e0f7f0411a92124365a321390781907e54b2df0f12e92da48",
+      "bytes": 4194138
+    }
+  ],
+  "campus": [
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "5c89fd0f5bfeda4d6d95719866a167bc083e1bbf0357f5e56b16ba68672410ad",
+      "sha256": "148ec1def9a782f148fa1251c9253c21ea19e3a2b4ccbc56f36e59c7b6ec1a30",
+      "bytes": 621
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "817d6d9e90d67e96e2a6b492c30b816055a78fca16fd9502aa1225f2846076f6",
+      "sha256": "1e75f62341ae5d9c9f0278cdcfffdcc7c70eca3d29cc5ab2fb96e15f1b23ea17",
+      "bytes": 951
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "4b0904b1d9c917edb6cae3e953e4e56d4e0c66959ab3898e15d8ac53dc8421f7",
+      "sha256": "f7adda04b4e176a261e45f6b63fdd7a472eb9cd5c040ef431985df8995358948",
+      "bytes": 1058
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "a7f92cab1d300402718c8f1b79a673377af3a582b51d804218c791243c1d8b4c",
+      "sha256": "fcc85b8035a6a2f7fd4a033dbf254b5178c647f8d378d5f81d17f330848371d8",
+      "bytes": 1056
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "eb0f4be8d52695f8d078da6142b8364cdf94f57507b1d9f2ec43fcc91102d1d0",
+      "sha256": "5b9d755e27c920d53315444690cf72ba113eff6baccbfbd9d43e2f40e227ba86",
+      "bytes": 1061
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "07066c92def63ae4b95a586995fe28ca9f2cc7d8ccf62825edf96f29a1cb7868",
+      "sha256": "3840f6e3355bdf182ed38e34c98a0cd3c3eb9ed6a1dc27a87f1b0a652c489f0f",
+      "bytes": 1058
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "1159131a7ca2c04f5ed1b5b061cfc4ce3cc4b5293fe4a0b2717bc7ce0767d1c9",
+      "sha256": "300a3db1362a6cd5d64122135487c1e729f004a191db56dfdb45bb0a3c33353b",
+      "bytes": 1056
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "7f3e9062a946f52e444e4bbdfc4c85874a8fdc558a3aa509dd82ed42c04e89e8",
+      "sha256": "07c7f9f7c45f7b00e83c37402aadaff5c73fd30395547a0e422f30d056724fd7",
+      "bytes": 1058
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "1e81f3553106f6aa5d1e71b855d2b5a39b9908193570a41f82e1d0ad57086bad",
+      "sha256": "9fe9c372397b01d000d95b53918f61ab31d320c5701f40f773c71a062b1861e9",
+      "bytes": 1058
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "8eadfefa5e09420a9cd0a8f4133426a528440ec25de692cf396b64d689b53d4b",
+      "sha256": "18848cc86f8392ffc1247373a8c2540c4de1be43785af950b88be5436a88caba",
+      "bytes": 1056
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "d50867e500df956e64a9d7b6ebe8c06688de088338fd00a147175d2f20b3ff11",
+      "sha256": "53d51c222453a74dd8f6a04487d29a64e7b8176f190e344b3e5c63c970eba399",
+      "bytes": 1056
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "d9713b566da38edc82221986aa4ae191f66b5f68c5c6525502500e6086cd3ec9",
+      "sha256": "eb17e5c4a664db74d7477a86d0d4a2f43140d465771f71bc6b83e707ecdabc73",
+      "bytes": 1056
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "abb395ac42c2990b1afdaf826f425e83030781e52ccf4d589a25b7d5e04ba66b",
+      "sha256": "6175715d9d826d7701dc27f7e27d86377cc8dd9faaefac60eb54f7b051cd59df",
+      "bytes": 1057
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "69b01d73253d66427854fcdfc41f707ca28795df101fd9d4e150a63e20f26e46",
+      "sha256": "6751ce0cf19dbbb8f8e80a46c43e2b7fb51384cf142e8e7b9271b46c6eab46c9",
+      "bytes": 1058
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "23400dff1bd688086c1b14986fa0ce978e874bba9d967d9c35fea9a5446a8b28",
+      "sha256": "fc42c28e83439750ec32e713a06f59a495f3eceb74d714e23a853bed336d039c",
+      "bytes": 1058
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "a8f7d698b14f1849f037e557cf4d04dbd99bf5cad4c6dd2f872f4d58cc7765be",
+      "sha256": "7f0d188b356e5372b889289e8c502db05a684835ae6d008dfdbda5076f7170c5",
+      "bytes": 1058
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "f21143d805ae65b47a5d15ff122f748511cd0275fda5c4a8e80b1496501cef05",
+      "sha256": "3de8a578a3d7b604dd2117be38f4e872df164bfcd8bee89ddd06794584427c16",
+      "bytes": 1058
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "8b32b2135239ed426751f43c36547ab5b6aad63a06665c78a599e17293806820",
+      "sha256": "fbbe518f62eee2ff5000e3cde66bc05bb75658046ca4134b82506fc040143c39",
+      "bytes": 1056
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "2f66e56a4b46fbdf2626726e698ae280f361617aa9c38df09b0a6d0cb702dfdc",
+      "sha256": "9f80d1bc1d6ecc4ff86bcee8e309d1d92b82b90fc128c865205be0f90f4542fb",
+      "bytes": 1058
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "22ceb3ed7673258799318dfc6a0686617994a8463cdfbe3d5afd142948333a94",
+      "sha256": "41380db216bdaca61d6a5b11e88afd0fa708eef646e8eddc91e1de7dab55d9c8",
+      "bytes": 1058
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "faf6653949f0e2c5f98a391af95292a4e71b8e85918275c625d7c905281e0fc1",
+      "sha256": "cb1ae8ba220142131024c898a0871d76f6afa258dab9288a2462b6ce93578e22",
+      "bytes": 1058
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "d421d2ac5177e32b91015cb327a4d67a8676fd6429815c0ef5eaf36dd023388c",
+      "sha256": "74dcccdc711a79adca27eff5fc1e2909fc5d8b177e5c63592f728c7345f0a1ff",
+      "bytes": 2555
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "1709fadf972a2f3a0ef22139078abb0c1039fd8e89dbedd1433da34983b36690",
+      "sha256": "fe8fb3c1d783157e3196abcffa6b177d77e718ff1451eacbef343dd8410ca224",
+      "bytes": 2552
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "fa4449eaed887e59e9c4eab451b400704e2b482c19ee7c97c99ad830b42e634a",
+      "sha256": "e7cbae3fb8e5ce0ab5b6c0133ffd243f721a09e1a6d9ce30ee4526b832eeb0f5",
+      "bytes": 2552
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "ea5557a1878d2f1e892f527420af45411fce0d1a7a61e6fc4ce3a703e6a23bae",
+      "sha256": "a9c8fbe4bbe348157251f93af91d3ed33b073d6c4c18f3bdcb7a56b6b1184845",
+      "bytes": 2556
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "abf7fb23f11e8f66f6a3b46939d43a05efc090e5b81a37fe39c9281732559e07",
+      "sha256": "0d5638ea2b02482a1893dde68bc1aabddf1b232683b2f03bb1c20b3d3d495c7c",
+      "bytes": 2552
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "d3b9c1ee83a43898c80f46f982576195d0a6b35b5a02c5ecc334f385027dd2e0",
+      "sha256": "2c4aec5fa0c8f358caa3fef6a605ac7f434613f06d1be81597171829282f1e7e",
+      "bytes": 2553
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "9aa35040ffaa2582106f7d7d8f80333891b8bfc70e82f60694fa9c43938bb466",
+      "sha256": "821f45131111f7cdb96508e2eceda9cf4d601dc2fe76e66b95ca4aa4d4c29ca7",
+      "bytes": 2552
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "252ea0ad3f67d354698dc0d40f19f5bc7cf0442ab26110dc7a9aa9ce2cab0465",
+      "sha256": "1047bd37be4c4b05152debdeae50f224330b543dc6472aa028198f3bcc2ad0fd",
+      "bytes": 2209
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "cd7cae10db3844b9021e0a86ddf7eea891181946c22a171c66e80d85f8430853",
+      "sha256": "1b4a3190f1c1e85a943383575b3bc148bf3c01e4272c39828c7dd73a3dba81e2",
+      "bytes": 2567
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "f844a93a0c5f0061a5fbbf7007b19a883cdb1c4c5fa55f2759426742ea538232",
+      "sha256": "b4161bb8abb0a7af12c3f4356dac4bac3875d715c81eae377a95fe4ec05e4f61",
+      "bytes": 2553
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "0479771cade6323587a8f77e90102ea498c7e52aebfeb9e96e73e87150a065cb",
+      "sha256": "93ea6d58427c1dfa7f07d8c29079c3e0e3d63dbc61fdb3ba9587ea7aa2c2ed36",
+      "bytes": 2556
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "0360baa79641ebbf48bea805a511feebceb67ed9119873822a9ff0d75001e8f0",
+      "sha256": "1509806f1cac48adc8dcecb936f840c41224a8d57a41a04686717db70cace8d5",
+      "bytes": 2557
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "6902e403d7fa6043638068238f9c011f04650700f061ee1d39a91d3a58a260b6",
+      "sha256": "146b73ee6967ac520d08bbb71361d54f7aa96d20c30caaea2018ea21695e0bb4",
+      "bytes": 2562
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "575073d87b3d3ff38685eb85166be323f5ff5ce83abb4e2240e7838933b6d465",
+      "sha256": "b0f4e13ea2681d38f9434c2c9451879b0c7b130af6147534d1964ac0b5563ef8",
+      "bytes": 2217
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "03b51b99e8801a08e542087905011e8f9d0ee37ce14b08f5689913288964d01e",
+      "sha256": "d43b1b257eacec92cb3773fea7801ffde2314486f270e40ab9c87c78014530e0",
+      "bytes": 2219
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "5d434859aa571be84490a24a53e991cfcdf03b1696c21eab3ac790e999e42a60",
+      "sha256": "40f6969fe7c46b87314085fce785490f57a8f50ac16e2c5af3dc7b01401073f4",
+      "bytes": 1856
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "41c7e3c71e794fc67bb09bc9b3b553380e0714793d54cd786b185b4b1133d880",
+      "sha256": "6031df909e804eff12f394d5bafc7e505ea761ac84426594648561df62f14469",
+      "bytes": 2684
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "cd0601e3212c612f227033fe7b45b5677c6459d1fea919c8814996b8df88c20d",
+      "sha256": "e89cc85f47e3144a0d6ea6060473dd46dc706e0ee6379edce735b9225dcd6bd2",
+      "bytes": 2705
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "878a031b33bdd978df4b9ba1b1c985fb0c94d3bf0aa1e1bc51a4533525a995f4",
+      "sha256": "52364ba2f968a2b132985a20326312a0f2a89002f7087a831b487fdb429c7659",
+      "bytes": 2703
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "cd5d774987be86985c9a02f5af77395b26881b1db669bfb422805a2786afe0a8",
+      "sha256": "3aa94c67d8af60fc691c3be3bfd53ec80af22722df08bb40bf75424f0d63deee",
+      "bytes": 2709
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "ae443ccce5a331ffeae6afb9b8bd3265b9830dbb52d1c3330acb2e5784555193",
+      "sha256": "43f02659ded6fe40b27e6c3bd349843e5c608965395a5adefdbec9adc114c6b0",
+      "bytes": 2708
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "e5496b7e5f575c3bdcf01754292764a52b0e4a3d98bec7b21312e7743578201a",
+      "sha256": "02cd0ded2fa540f237509b68df5db3596fbac8959718bcc76ee67d0253b26d9c",
+      "bytes": 2707
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "a83889194244dd32cc8558dcc3736cdc81d5d06fa351790ff634b583e3897c24",
+      "sha256": "091bc250a4da1d74a3c82c85d70b0ab01eac4fc0917809147d62f42c857dac97",
+      "bytes": 2707
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "610109eddecffcadedf3f37804bd654323358527b96fbe06c8b32462f595d482",
+      "sha256": "5ca4f34e39ef0da177ebc3166738617881af72c15b3f40379f431aff71c82dfb",
+      "bytes": 2337
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "f0eb33454f830fc53c61203dd560c20b10e1289545d8e2e1c31f6bf0c68d5868",
+      "sha256": "3397ab29b363d2e00ae724f3376e89924ded668751d2e9ffab1818398c46f853",
+      "bytes": 2712
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "525a5877daf602ee6a8ff607ae8f72637bd962662d5f31fe7e70a7b0c784f511",
+      "sha256": "b3d3dab6eb2a5605a03e557ee625cfd7477244a7333e968f321b30b4a0d58e72",
+      "bytes": 2705
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "e677561894a2b8ba0ddd27d3fe90665287aef52130490fa18a952d4663c698c2",
+      "sha256": "a1e1a05af0b0e98ee47807c2c002893f4c718b57976bf8fbf8182fb978a9954c",
+      "bytes": 2708
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "6d6109fbe22c2dd7a15f1ea566a775306affd1dd7695935e9f3f80c57e54fa95",
+      "sha256": "d6ab1de461b7b10a8c97d18d90ca2fa580ff11b2e42c8f71062951aa6f028d40",
+      "bytes": 2710
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "373afba0c7e7e86406aeb70e603677c027ceda37e3a1a43faa7ae48f8678af48",
+      "sha256": "1fdb6dc4747c040da49607298360d02e6133556eb24a0a9b348555a31241f0e3",
+      "bytes": 2712
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "3be9557f72550af7281e2bad54e5a245a3b959f706879442559f26b46504cb79",
+      "sha256": "ecc9d5cf79db7dcb2705a6933e3b0dabc24bcca77aea84c6283f898859d2012e",
+      "bytes": 2344
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "7b857c5e66adcd80a1e1b0bd3ba1e927ed3eb1dae4b0589281a0e1f1cd45cd7f",
+      "sha256": "91070bd38663cf2c43f7fe44e397a0f0f21fd019c3599a868f80f64816671b0e",
+      "bytes": 2342
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "4ba919192f9d5558e1d4c9056a70cdd8afe7ac49441f2117783361183132a1ec",
+      "sha256": "7aaaa60e58c23d89811d4e745f7dd642fe5f65df102b5ed23c9fc71a034bf3b4",
+      "bytes": 2002
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "bf880ad3e7996abe960511986f2307db9e281ed7535e708fddfb4dbfb59d2d29",
+      "sha256": "983f7217eb8d6e6261ca0b40a6e920cfa4506b4a4feaec3f85bc18307160d028",
+      "bytes": 2874
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "943691be25b734f558e40b1d8f23b3286d8bf06607bb4183d722611d800f48d7",
+      "sha256": "db197ef820aa7b5441def8365dafbbd6e615f395708a0f6146b4167e9d796024",
+      "bytes": 2900
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "ac5268c3813a70dd761a93900e49747b4dfb8facd489d44f6f15b799cb5affc0",
+      "sha256": "d1edd2d9d1cff0e17ca65f0e49bcb3375e8c062595712474fd66083699b559bc",
+      "bytes": 2842
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "e361ad7771ba3bc5da4e300408c48a07f790e02dc7a8380168e47a4b4d4972a5",
+      "sha256": "3a948bddfef5114afc685cfe4ed58dd2ecaeced86eb10e766bbc3976cc98efbf",
+      "bytes": 1670
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "80f77f7859fe84619906cd4d3d81cdb0e3c8187588feadcb1001e520b7b1a600",
+      "sha256": "48fe727979c381cbbe9402778b920d4d7d859f20f489d443367759bdee135594",
+      "bytes": 2904
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "643bc779882c7eb19cd2f23c80587a57127dc1cf6c1b9155095ace21d5499918",
+      "sha256": "74c89f6cdd25de94da5ff4cfe9a7ecab721521f5c7b9c2aa893c3c9f3f7aafef",
+      "bytes": 2901
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "f78033cd9ab59a4479643754e300881920338789e10b79213163e6099cd8347c",
+      "sha256": "a40b1a67e793890d75ddf40ae7a96dfcdffbf262877c7e1719f6e948777f1c1d",
+      "bytes": 2815
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "43b523e10568c657db6ed10b30c886be16ca86022c9d0713b12706cafe0c6035",
+      "sha256": "4e2f9f3aed14ea52df391bb7d90193d6ae17d32c44c06eb3e2f84954dfb0336c",
+      "bytes": 2418
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "2b1245303de58d459cf1af486a411140ff4d68d29ef7077b52f78fc6f21d4b9e",
+      "sha256": "7348ad11d873cfd2450c297a4cbf4a646f91084af6c7be621333dde2fb78376c",
+      "bytes": 1673
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "28dcbd59396411c2aff8ac28c27581000998f86cedc71df70d8e8aa79131488d",
+      "sha256": "8c0a2eff08c43a830437916866efff7d3f326e5f3f3a4656bfba011f20eee3fe",
+      "bytes": 2416
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "c4fd4698aba87bd6710f497fc7f5e427646c6f59d73b950a65b08fa3bd3f3498",
+      "sha256": "9c92c6efe90d507ce373e334ec36dd7652483a0d260a3b3e3ee584d13466b6f4",
+      "bytes": 1617
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "d0ceecc7d2ccd021178b291426d2249752a950fc1fd756857d0f8544eda0b100",
+      "sha256": "83730ae6ecdacf94135b5a2add1daa266e868149f93702d29b624d45bb3a356a",
+      "bytes": 2736
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "f74b2b4ab5f77b568ab896b6370a347c78d356fb7b05d586b083d89f55cdd1cf",
+      "sha256": "9cf6460dc9ec5570ae557962d8d6428efb0d3c67ca270e23866a681c9e58f386",
+      "bytes": 2711
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "6c0c85c4be3c6aeaa72dc5861dea82ba09b0f9dbe2401575e9e7da1719caa043",
+      "sha256": "9739191391406b11388efc66c166b4ac18b067bf44957a5f30db33025b81223e",
+      "bytes": 2337
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "2880521a62787b386cae7339589d7b240e070969541a2e36591f3f49ee95cc9e",
+      "sha256": "fcc99b297b45fdf5c49e22c0354403fef1ebd6480b1dc8f33d1703319d4838cd",
+      "bytes": 1963
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "3d64aa78695d8860b7e1560ea91fc7691543df09c6679e7d54c85bd2435eed0d",
+      "sha256": "db4905214d415e8468a9a6b8389b1738062bdbbd3c07e1bbedf1bb4f0ca9d66f",
+      "bytes": 81
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "d8b01f00fbc81046672a2e540a3c86488bcb54a180c65cee627f6c8feaf4da64",
+      "sha256": "62ddc0a4934f94add4356750ac3d4a2743b8f2441160e9b91f92f733036aa335",
+      "bytes": 2311
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "8eec75b2543b8f9a24813ffe38df9111501c9ea4e5f5db0dbb73ab8bb024ae0b",
+      "sha256": "db4905214d415e8468a9a6b8389b1738062bdbbd3c07e1bbedf1bb4f0ca9d66f",
+      "bytes": 81
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "d9a2d128c3390b06173925197790b43b4a93395a2d28015e76d4ad75e2e89e45",
+      "sha256": "db4905214d415e8468a9a6b8389b1738062bdbbd3c07e1bbedf1bb4f0ca9d66f",
+      "bytes": 81
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "cb426c6b087d144b6855b4826c54f1813e7576e6b5e97f3ac2eed8247b2f3057",
+      "sha256": "8e3c375588df0006a609493d21e4523b21a16b3abae075ff5231086eaf3128af",
+      "bytes": 2707
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "6c7399bd45a43cbc5695c61cf1cfef5772689fd15b2b87fbffe708b56f442986",
+      "sha256": "8acce61bc929545613025c526006974691f6ed731634dfa39a637eedcdddfe6c",
+      "bytes": 2707
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "b59497b7fbb3af6462e6a79be2e5d56823bada82296abc0c1ad3275aca87815d",
+      "sha256": "e9c73e907850ec32f689f46a285b63873af775a552578866122fa9e3b074243c",
+      "bytes": 2705
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "20397d9cae1eac3239135921cff7e04b201bc5bf49af75c2dd475f7e36defed6",
+      "sha256": "c940173f3d5605d4968993a08deda6fc219ccb47e04c274320342373cad2db43",
+      "bytes": 2705
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "0c9f5c25e5df5af954590834884fb8414781aa1651a65f89c0b907d87b68ebf3",
+      "sha256": "18c57d2f88bfe0014ecdba0291570a6e56baabc207118183a0c30cce6365f199",
+      "bytes": 2362
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "42a4005df8fd9c021acba53b0ef9613e4cb82cf5c1b420f6bcd24b21dbccc13f",
+      "sha256": "54c5f9641e2c04f2629466e3b6003266d9e5a42f229a6e0313ffa97cff439083",
+      "bytes": 2742
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "b214ced374c9b602877bf108e0413de17375395fa97d058a474331e6539e3110",
+      "sha256": "d377cbd9437caf9fb8415bade6e4e7f003290a4be98ddbe2617a32b125a6b18e",
+      "bytes": 2717
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "81d99710c7e3d845ad01f0979e8ebce2e7c8f2826a8e7ff0398bdcbda273bf22",
+      "sha256": "edbd257cd41a003a979fa0ce3556937baa07c4a5ff739b5673b019057007244c",
+      "bytes": 2737
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "69ff903f5b4aea81971b1dbf00c3a14f07feff4591693a38ac08ce63260468c3",
+      "sha256": "8a9381b8d96951af885546993d1f6cc9a4d874c75387098fe52b072f4e6e6c5f",
+      "bytes": 1587
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "f71f68413a9b94e3c79efc6e95440346db934ed03ce5e0cb9df7d7e78a278010",
+      "sha256": "6fdf9ee5f312c458bac887a77bffb310515c6a231c643f3cb115e8203cdb71a6",
+      "bytes": 468
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "66f844e472e281770413b38f45ff2cbd277686c40eccb110ae4b9ead2ed3c14e",
+      "sha256": "aa36196bdaec3d8351f27664b964bf1f4ef5c51712748cae0942bae42193cf22",
+      "bytes": 466
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "a17a086bf62d86938142ae5f639102b86ba008fd53e101c4399ad0361c5fd62b",
+      "sha256": "aa36196bdaec3d8351f27664b964bf1f4ef5c51712748cae0942bae42193cf22",
+      "bytes": 466
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "5084d3abbda238a67c149473d76422b54b5618f513e67dfa3a6b0b995e08219e",
+      "sha256": "db4905214d415e8468a9a6b8389b1738062bdbbd3c07e1bbedf1bb4f0ca9d66f",
+      "bytes": 81
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "0db28d8f525ac0937d48fe437b78f0a7898d6fcc65e25659922d7482cdba4e82",
+      "sha256": "5ff88742d3581753aa735271e7ed1ddeb4344f21623375661fbdf528311f7f8d",
+      "bytes": 2704
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "c88dd41ff56576f901bb72ab2a3b03d92a6eb5c6016b622ca72b4145cb1c0215",
+      "sha256": "f9f29d2347808530356001a8600f6f812fd59ccf3b2e1ef47a2b9e5cf71d6ec3",
+      "bytes": 2701
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "acf5df478371044485a84d87c52eceff76214a92c36753731cfa01c160c52136",
+      "sha256": "5c6b75848e41de306ef53c0eb6b2f5b5399085fa9b3aa02d2849efb22fb3a0e4",
+      "bytes": 2703
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "3714a8afb6bcb24284608bffa2741d1e78e53f54a75b6c4c2fa78f9d16eb7d75",
+      "sha256": "ee116fab335cbe7e3a5054791e0e56f0c26788fcc09322c41a0142c8d669d13e",
+      "bytes": 2705
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "79065668e9d75e08ffe589650d86165a39dacec084ef9be1312d91d038788473",
+      "sha256": "9a5a045dad2a59d2f8517e7a3821f99cc1a1280054ae69c5cc8b6007d34584b8",
+      "bytes": 2702
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "298b2eaf777763c67bd8b119e0b2b09d0e09cf775364522dfc45df0ad595c51f",
+      "sha256": "afe3cf749492cbcfe947ae97f221e21b1dcdd70fa201d8ef4a8dbba7f683addf",
+      "bytes": 2695
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "511062af6e921e474a35ac97865910789ea206899471ac30b626f2a0fac846a1",
+      "sha256": "8e1279cb0d756a1c7455fbb2ec9686a2f8c1fa1d4653b19f545252f9d8ce30e3",
+      "bytes": 2700
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "1d3898b263924063864840aa483b8b325d71082ef6a75467b28a31587e03f965",
+      "sha256": "e161b9a82fcd53e22c1908d8f4078036202fe40aa62dc4c7f9d1517cec60cf25",
+      "bytes": 2332
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "88087378417f80cc390c4aeda15135ee0ff3b2d2a01c966aa55f352559bd0d45",
+      "sha256": "6a85b1869e902ff7dc23d5420fc86375a65b52506c382caeed94c0b71a5befe3",
+      "bytes": 2704
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "f90100e7cd8a5b74c16a05e13fbd9dc14efaa50b484ef7835ad342ce00eaea26",
+      "sha256": "6139cc27800d0c2dbfed0cdbe0624142ba982dc2b269f2e7e6f03c7b409a8d91",
+      "bytes": 2699
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "1f0b2f9b325a1eec471eb7324e6a7a457e94ae39f9128d0c968fe9bf669bd12d",
+      "sha256": "3a4f7c32e10fa31daa721a18461061901340d55d8c123452077b97d0917645b1",
+      "bytes": 2704
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "20b6954bf98c040c704e0566356c9cd137129f332f3a5b6c134cf2f587c57de4",
+      "sha256": "d4917114703024d05b34039eabd0d09661d8e14588784ca85ae9046ca005dc01",
+      "bytes": 2706
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "f201355f78fceec847af0b9f309503e69f6cd9634b54e2b0a948c6f4f467133f",
+      "sha256": "ab998faf0d0655ba965ab582a58fd386f4d82e32e73d142f7f2dee857e3e13a8",
+      "bytes": 2700
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "5780c00d1e6162f8e37583da368ce57ebb44ba7d861c50a1f1f708eb5e28f36a",
+      "sha256": "f398a22422bfbec21ee20d22082bb5f9cf27b42553b259d693897d1c71122491",
+      "bytes": 2333
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "60143fc0ee897b5e706af578cf5e57479aeafa39d35354f156eee73acec33c88",
+      "sha256": "0109fd0b439c1731731738cf5fca6d01f35983e271689bef82393f52d791e949",
+      "bytes": 2333
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "cbe30a48be8fd51987ea8c135a533c209a2a330fc2078b6f308e680fc065eb9c",
+      "sha256": "094cbecaadab2692ef2b164e442cf69a7dae877c3f7c05510265139ac23242fe",
+      "bytes": 1997
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "55d2d418e1a7e4bdaf412b7e11f31550dc57f3b3ad918697b688f2d7322ff41e",
+      "sha256": "52241a96ce2a68301f4b39cbc2e5557a3f775f152a5d42b14095cd68d400e9ba",
+      "bytes": 2902
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "c12e36ffc942f8191a0b8ca4e828b8c4fbad28e4a00ff812762924ec4fdc4646",
+      "sha256": "ff5e761291c237d0900b623d9442502b1a6563694fd959976037538f0f3e90d9",
+      "bytes": 2902
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "11cb6b20c768103eef840e3c5969b23e9243d60d6432548c9b357c703b15224b",
+      "sha256": "aa56137618f07730f1c3b52b9cc0dff7ad46b68028f28460e31386c0e61818f5",
+      "bytes": 2843
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "2c90f8e3bdb8db930ae693bba0954cf4981286f4b26a3bb931bddcb88a222cb0",
+      "sha256": "17f170a28978195008d2fe10cea931971a4ef7522d1d832dbc0d4154969f1020",
+      "bytes": 2874
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "1954f3f63c0720c0e047da1a39759be0efae12b3955b3dab25d79a94a26a82ec",
+      "sha256": "33f690f13d4a5899b1de639d2590ddbf5693bc80bed1aa4e75e0836c98f95aa9",
+      "bytes": 2788
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "bdb1d6e5e3bc2fc7d97d1bdf68c14ddaee5ba5f624a9d48c2b7d4e5c91ed5a97",
+      "sha256": "6a45384eb317efb6d5195242e2a6ac12cbb6f64f08f942fc3f6b38fe9ce7c5ce",
+      "bytes": 2758
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "0ea343b608d0bcdc95f37b4a4bf7587a21563e83c29fe5e7cded75b1503e522e",
+      "sha256": "f465aae1e06c77d62d9a9bfc9210e3a686f73f8e361a9bdcb3ef3138b873b354",
+      "bytes": 2788
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "2afd1df544da8ae608945f85a343cf8d98f2696aaf395c338f78e365a390feee",
+      "sha256": "514af41cbca9816714324f9ea8175456d7a2e1edab3bd21be9de4e1075cb12f4",
+      "bytes": 2420
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "fec31b30f8edd16620022bc7f6c5e21afb1f6964d37dbcfe3c56d739e69bda15",
+      "sha256": "b1b35bed34d88b7119535804057bd513dcc382efef30fed83d55c2373a286e4f",
+      "bytes": 2903
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "4367e958cfcbd6370a0fa1315f9fe23effcd71120844c186a62db8a2d4f711c9",
+      "sha256": "93cbeb324c807e0fe698512e3f43ca8fab70374e74234854fc5343c8a8dee749",
+      "bytes": 2846
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "435e242221937207cfe312620c0401daca74ce4dee04e5a729777b3fc42bbfce",
+      "sha256": "570456dd21c5553e49b4f601aa2f9f3d997b0a0c3bbe2dda77c376823e1671cc",
+      "bytes": 2818
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "8aed8d29dbcccb898255189f71a07784001440a63def924f2b546b2264befeca",
+      "sha256": "2d9e750b4f1e2b5ad4173a6fef836fd91324b1d14c8e913e9022c4dc2189556a",
+      "bytes": 2821
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "35846784d0a76c98009f6b392319e8032f3ffb3dcc4e614a9dbc2c462a5f31bc",
+      "sha256": "24d2fb6de19da69efa191609142be01c27ac8e0647a888ba82802c5478ca94a6",
+      "bytes": 2903
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "f2973fc3fca5a31cf70527091ab80210d9bdc136da84e43827cefb8fe997ad97",
+      "sha256": "74e14a21421b0de5e95081944efa8a88ba4c859d73c48448a5c4874987af85bb",
+      "bytes": 2505
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "e3f34ae2489dc4b51de24c1ee35b59b60ce7c4654c11ccedaaa89f5aeee6c51b",
+      "sha256": "7e07bd9c05392786e9bb4baa80a46aaa2b0baa5f1a49b528d18a49c8bff1d581",
+      "bytes": 2505
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "ed7c35029757b90fce0f3ab3c696f01969c35e141aa0abc6b8bff9a8bb9ecb16",
+      "sha256": "64691206e475667c8b818f65fe13d221c38f4a8aeca916c9dd88dbca7a4e9ac6",
+      "bytes": 2193
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "4ddc57336306ce965788e2a5bb603c5b9657110b97346849b555fd5a6c67fd8d",
+      "sha256": "6a2ef2c4bbd56113a9c5a5a09494041247b53cde0d5b2ead765e0a03afd389b1",
+      "bytes": 2903
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "92828044ef4b5993a591e1d8fcd1b78995ef74a77708796205a577091c609f4f",
+      "sha256": "47d7006ba7025afe7b051dc359b99431c04055b7cff03ad1c5c0485a8d637060",
+      "bytes": 2899
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "6f416661b4bc2010f7155f7cef93c8d3c74eada85b4c91cc4e03d7299daaf766",
+      "sha256": "37063af66acca5bea229b3c30399d6fc64e346fd04a34f1f6a7dfd1a4a18972d",
+      "bytes": 2901
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "4708b7754e89f0794a04b6453c9a8e8fb8f6ab459f0229721bd46a873be2285a",
+      "sha256": "22034cede2a4ae55200f82066b79ec37002028b39c8b8151cf8e90b8d6dee943",
+      "bytes": 2901
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "1c7d3259d9decce2ada47eb67721ac169a5c8a16701443de2a666ac4a32f3f11",
+      "sha256": "1cb8a07b163b0f7e0c102b13cb458e1322af65f86c1112dab76ec2d34e11f57a",
+      "bytes": 2904
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "b8f94d4a215d81b49c858770f30ebe1f60e9a2ec9adc0cacb63e65139e1599da",
+      "sha256": "00ca49edcca7d23836ef33067ae036bef85d32e76debe33d1f0251d0d110d076",
+      "bytes": 2902
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "e7f68b1a5c0aa87e76cec681d99cc08597c465e15bf895bcd4a7b8bc9abfab36",
+      "sha256": "1623df273c31476a84369e571259406ad300e00d26ffb3c1068637f3059b2a42",
+      "bytes": 2899
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "535281a70be30875ebe3e32ac0c46625da2784b4b82c72f1b368b5dde74df606",
+      "sha256": "efed845bc21daac0449b13a38b7e29486f1939475eb933921329be142180dcbe",
+      "bytes": 2503
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "dfbe5fac0b1c378ef21ca55447e665dbc7727b9bb3a66538b2d80f4477943d4f",
+      "sha256": "58d67de15edca16e8d6da6c4200c0426dd6f9ad7897d5a49d00646f06dfa2440",
+      "bytes": 2908
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "661ccef1b1c8c8baae56abfe367441bbc3b6b04f5ef18c52abb03282f40ec91e",
+      "sha256": "2e37547c8a1e8fd4b6f977939b9a33f481521fc81336d27ceeba5c5ef47c7a2a",
+      "bytes": 2902
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "e0861b8a3c4491c86507acbc2c978923af056cafefe5baf86c0d3157849335b3",
+      "sha256": "6a502b841d0b81d074cef13d0093a8575fdfad9fff0088b8c17a9cf0ce5125fb",
+      "bytes": 2903
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "ac6ceb40306050a3e17992c91da767639840f6c00c6a3d8b7d22a64c022c2015",
+      "sha256": "d3424cf78a2d94f794e032033c166326bed04f271fa680ed1ffe18301e3ebc3a",
+      "bytes": 2907
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "c08a5dad0ac0fe8194b114e0de7dca703f8fa9cc6d1f3f1543f7c94d3b6d1cca",
+      "sha256": "e8576597c40a4f5b2a6a9ab03a88e41cef9b487a5287d94253ff549d64591d9d",
+      "bytes": 2908
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "9cf654d8464be1370ace65553bddcb971eee6f438a015e34f086c217aee02400",
+      "sha256": "7c1eb37fac57c6c8991453f1d18f58115c6d362f2386ff8c37fba9856f9a94c0",
+      "bytes": 2510
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "5f1f97c59b8ecc6dfb60e9f880a476ba4a6ac0028e05400aa70cd37787dd84bc",
+      "sha256": "b7d2fc3135282e12fe9c3a9b1b3053eeaa6ac5abaeab270e6627f2ed8e7bd6d0",
+      "bytes": 2509
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "6ad72adcee4d5bca2dfbbacc100372ac048d6bb588d723b70520b8b266f078e4",
+      "sha256": "f73678f1f4de329b30cd245ea7ea75e8270b42bf0690c6b2a5b0dbacffa70742",
+      "bytes": 2196
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "0f3a6502dd892414b75359aceb27f45644c8c12ef29df11b0822d06733c0536a",
+      "sha256": "5fa9ee209568fb7b4a94c9b27ca5bf943b27b37f70dfaf5e64c69ab92cbf9aed",
+      "bytes": 2706
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "febd979525dcb10d69d215db67adfc549ca3411a1f32ee5e3fec54cfa56ef8c2",
+      "sha256": "b7f3ef5beb1dda9d2b9398fe65716a9de963825478b212faf7e4f5bf246f635d",
+      "bytes": 2708
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "3611eda558913dd6498e63e90ebb08703e0ac42c8db17a3eef2ddef4aa4ab7b1",
+      "sha256": "0b5b811e532718180ff26d693602f482d99f19aebdddeb1592bac539f3d23f98",
+      "bytes": 2702
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "bbcd66a30a744706fcb7fb9955b021c443e8fd7d60ac70559153e0d2845ec5e6",
+      "sha256": "461051bc8ae98e08cefa7177d038edf37dc60daf23f829f8b0bb4b987bc4515f",
+      "bytes": 2702
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "b24506bb05b035952e006c4818c32c7c9572089b52cf9d61b7a12e6c60c782e0",
+      "sha256": "209a4b2bf031bb7b392bb33159e57b3f9b45a9f1c796f7b86bd694cf9fe23ed2",
+      "bytes": 2702
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "c316d3bbbedae027c010522fdb1774af056220b03c93fa4c97238d814052c229",
+      "sha256": "e3254dd451f3612d7297a56675ab83b2dd652a85e84a17dbe04f781cdc6dff3e",
+      "bytes": 2703
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "8de8d6c1539e11e0be9ca6c1101402c332cac33971349554c5354be9307f1bde",
+      "sha256": "cf80c35b5d622c3830cfc35600e3ed2aceda775a48f301b470a7c962b154cf82",
+      "bytes": 2701
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "6ccb2bb31795092cc4e5557acc0721c56b823c1ba215f110bc2f0fce6b9e6963",
+      "sha256": "704698416dbe19e045a128875a850cd2e9bbc4c01459e5bc8aa70324fe90f647",
+      "bytes": 2335
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "b84ef4125c5d0a7cb730c7736748577a154cf1393d86787509f99f55fbef8c55",
+      "sha256": "3b21f57095a0a57e8da3ba235f5352987adf15a6ed8457efc98b9486d04581a0",
+      "bytes": 2708
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "c8ef6cc5898e7e514e100ace52f284329132fa94d26e0927c5df749677f4f861",
+      "sha256": "ed5feaf9cea6693c74abefd1edc04188c29ff7c1e61421b091725e69dc0ba056",
+      "bytes": 2330
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "f1202cf856c8e65615bd5fb75eebe98315b0e01e734efb2ee9dc1fdfd3b3b21f",
+      "sha256": "0395e81b572d6c660d3208ace850a3f0f3c28b68eb4349817cf8a660ba291142",
+      "bytes": 2705
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "0d87f32799d8a32bbd8a2905690c2a156ffd57eed05c0acfd8fa8778135a52f3",
+      "sha256": "560965065726ab120aca6d7872ec7e4bcd0c042785fb60a034783fd80be2ea11",
+      "bytes": 2706
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "f51eaa22d3ab8538d40de0a7328417aed3b90007218cf4baecec8624ef71c6c9",
+      "sha256": "5f4a2d03d886a1002b9808e7b739bd9e78c32dfd17d8a907f1eaf786b3767999",
+      "bytes": 2705
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "ff487c99a8951cfe5ea67199f9eddbc8c5b52434e72e48eef5df06f3b628300a",
+      "sha256": "619352811dba46e7fe42ca2e47899d0d914c7661c0d97f4d40fa914e15aea0f2",
+      "bytes": 2344
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "299cb4dbfc33d302e778c22f8eae1b2c4200cde3fae4e0edc14d5942ee0f5fda",
+      "sha256": "3818a42c58e735bec8252defd3216a5d242c7265179010284e30dc646954aee6",
+      "bytes": 2344
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "b75d9ed7e3fa0607f33c9e1c0ed364fe6c58ce70f7ce2ba67f8a864d3f2485dc",
+      "sha256": "cdc8856264216eeac923d6b071c3459ff1496f620c7049a3630ff396c33d7db6",
+      "bytes": 2003
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "b6258c68169d0bfc4394f1f9c7ac30cd06668f90c7a0ed7658820608c3cfe8a9",
+      "sha256": "fc8c742412bf5af841b8ab9f43d396eb221b01f44dfb1d8f9a612f8b924f2a1b",
+      "bytes": 2708
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "22adb76297600f57dd5b19a6e311a127fe4b9c0ff729d7b81883000314241f6a",
+      "sha256": "0f0be4bb9ef06c930ba2b3dc163d768b55eafec064d0dcf1d6284abaa5b6627e",
+      "bytes": 2708
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "e57f4b2f659d435d04d4beefe0fc95988d8b4f8067689db658d94924f392693b",
+      "sha256": "e38e3aab98abf853b15b6082a2f3f68c45e3e8df610c268b597842e61bf8826b",
+      "bytes": 2703
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "0e5e1f70f0b5f427a6ba81d680f150b9a6de956383f82a96425fd45c2b49f9dc",
+      "sha256": "6e6950f9c4c3f2d05dc57fc5181187050fa0b3719187a5563c1d1dca795ed8b1",
+      "bytes": 2707
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "69ef6f7ae5926cdad708c5c59370a4a8cf6ad1c817e1494e4e37b823373ddaf0",
+      "sha256": "73645d037950d80bd3313075cf8a76f76f2eb5313b26329878513bb56f80ea35",
+      "bytes": 2709
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "a405ad4e419c567ea41145dfbac8ab465dfd249ab3411c5f3f945fcc82c6d632",
+      "sha256": "3fc2e56c0ddb94029785ad06d13a26ff7ed230538425662a16c819abd87583c1",
+      "bytes": 2709
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "1a49b3749513a577e638ed217d4fb18acc17ef6d8f4be99db6b8790f30ae9d4a",
+      "sha256": "5a2d9c5e43fae7c325a5064ebfce12e89f9c5509e0118db28f44048213be064d",
+      "bytes": 2709
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "9efa2d836d9d5a795284767167cded0d5fd03ad993a50c3ca8548104cd41a55f",
+      "sha256": "2f9fb5a93b1cbf42f5ae462a5622d150a0d98fcce4fcd0957c3966fea6ba4352",
+      "bytes": 2337
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "3f261f15cd12ac7e489b3fb9c65e63a58b3f4ebbe21785441de56788acde4489",
+      "sha256": "db4905214d415e8468a9a6b8389b1738062bdbbd3c07e1bbedf1bb4f0ca9d66f",
+      "bytes": 81
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "c650173c55d092adcd27ab382cdc7a5ea62a51bfc21da520c31d56bf4e4b7fe6",
+      "sha256": "db4905214d415e8468a9a6b8389b1738062bdbbd3c07e1bbedf1bb4f0ca9d66f",
+      "bytes": 81
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "fd3ad49e55b31d69e75bee03df704e0ffbf3b7c01e79cc8b75dad8a34d41cdd6",
+      "sha256": "595af1788c0db2678f2efacc17abdaa8f4f9871a8a3a5742842a5c91d43e85ff",
+      "bytes": 468
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "5ddb840edf70ac70cb9be40101f44a49fe1aa9ce35e84828c132a1bbbcd3f994",
+      "sha256": "8637bf7ee33e6a5db414fd3690a07fc38692bde22ab39dea090b2ab806ae0c35",
+      "bytes": 2710
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "ebdc970b5cacec6187f58d0eca2b17a4f6341e41417f64110ead13c0d2e3d899",
+      "sha256": "a7b6bd8c3c920f2b15acd0229f0f75c752030a4a3d6f0201bd5dfcea45b7ce91",
+      "bytes": 2710
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "e0c3cb774a45a48338897c6843470cc63a7512e459a13dd8e6b7cbb7956f6352",
+      "sha256": "aa57cbbd567071e31912cb2ab1726b81a473b11d362ebfaa206fe5917eba6501",
+      "bytes": 2344
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "ebf70fe8623ff722b229312f1b61133ff2191abb0fd292c8d55f8022a3bca542",
+      "sha256": "7936ef84cb7f1e865d8669d034b8ff91794cd415934ed4af16f6b40c0f87083c",
+      "bytes": 2343
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "5db533a130e8b93060457f14344cc552380ecf12efb5c75b44030ecef3dc5c90",
+      "sha256": "c7d9e73a33b0cf2e4cb7256fa0202fb4070fee201ef022ffbeec9e3961456774",
+      "bytes": 2003
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "d19b9c14b699f7fe24c920050e1bd2caccdda30e281a2fa2b5c58ffcbcf82325",
+      "sha256": "0c1e8543f5e0629d1a0f7716906ec34315d3e8fc627579a8bb23a513f19aaba7",
+      "bytes": 2800
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "ef90b16a8781b740349d7b70ef8df6abd86b2eddd9a25e730b18f32c3abc6445",
+      "sha256": "d3a763852fbd6e2faf738bbaafdc6d8dd95d120f42e2190212ac307d1cb4858e",
+      "bytes": 2848
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "1763b8a874d809fcac9d4066e83565e0c3c1c650ea479e0cd2983b2bdf4e111e",
+      "sha256": "f50171120256da76eb93185aeab9d5bdec01117134dc6ce959bbb43ffc422d72",
+      "bytes": 2843
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "5056fc846467794430b29b6ad051dc63413f2132d059eb439038d61fbc19cf4a",
+      "sha256": "141392519652c3feea45743cb42f48005ee9e050bde78806fb94ff7ed9c02e98",
+      "bytes": 2849
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "90285ad46f8b43efc9f88905829a4abb6225bf296651f73275ff0bcd5ec1195e",
+      "sha256": "59810819b5dd7c6b7f64042d853020b27bb0e3ade58d0607e4a8c77b33dea8ed",
+      "bytes": 2902
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "4084445e0aeea36a71234231b6b83bc26bb74aacb08d3b98d65df55cc80da78c",
+      "sha256": "99ecba8244d853608e4fb0ba3a10778e73755e398efa85a66b1d7fcec9e7b473",
+      "bytes": 2903
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "96951bcd60fd7cf7b6d4f6e5636a81b12cc5d85d1cfecb3b2ea982cd02f8275d",
+      "sha256": "407e8ad797d6cde390baa612c4d6602ea27ec7218a9eae3f4d93fa2faae6f777",
+      "bytes": 2902
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "47dec209c2a022a6526dfb9f9244a81072c397a06410d2860bec881e1417bfda",
+      "sha256": "49ebe9f01662d629f5dc0cb370d0f407f716ed134c0caa18c6f37a59da8ae004",
+      "bytes": 2505
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "5d648685b390cb087b38521d1d5509ced3b313a26e6ccb825dcfc7f011f98e9d",
+      "sha256": "57c3b538cfb76eb59c63187157bcdcc2793d16c9b6d043d617ee52068ba5df3e",
+      "bytes": 2908
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "a1b35a03357b502e5252e930f0884497ee9d26f716ae66e980f70eabb6c0cf39",
+      "sha256": "87ee7319fc40bad374d6c15629c2ee1dc37a3e80a4250774628ee1d9f61f6822",
+      "bytes": 2903
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "c99a8d1298d3d0dc9a29723f1126c55ed55bffc75dca11b23ec3cf1db46e9664",
+      "sha256": "789019eb8945cd6773462e3e4a0afae3576d712e43b9dac887a81d0adfd6b474",
+      "bytes": 2906
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "e8c49acfad410b4c7a33cd02f3d204b8f978b5939946585d0e29daf9026ee8f5",
+      "sha256": "a34b45a133a16f5610305c53615df7a767c9209206b3e10d15ca3bbc12f9b73e",
+      "bytes": 2908
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "9bc3e054b26f08f530423541593c0d10f3a82f861602efd7f183fdf74213538d",
+      "sha256": "84d88226d20abe2c56c7fd7f79540f3646119c75807f1b99f1216b6d6ed357cd",
+      "bytes": 2906
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "b887f302ea9e4396ff764357b771710187c2a3fcbf8a47a9b3a0214c0b386263",
+      "sha256": "b0e7b3bf166cbeffb5c03cc9c974636a1a0fc7f7d28b11e851685d9cd6ddf018",
+      "bytes": 2509
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "05156a44310474e0b372099207365a7dd7594b866f3692e4d4808cb2e3c9a043",
+      "sha256": "b93423f201a8e484f2428fa35b71c26c670acf0eef8baaeba1fbd3e35e1a70fc",
+      "bytes": 2507
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "efb4e6ab7924e60f320ca1909a196a228f8c9d37d5ca7da466511bf27143604b",
+      "sha256": "49a88a9518fa5349721f8c9e0f4d42eaf910c96209c7a11a5932657c2324e093",
+      "bytes": 2054
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "39dd441bf002d92e23641607ad8413a119926cd00a60cf7020a255f8c23cc2bc",
+      "sha256": "259451fcfebb19e44bf524df401014531c4c82717f0c8bf9824b7c766971942f",
+      "bytes": 2906
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "3d30c03f36cb0e043a8976050305b23fe65f9d1cfa722ef8f8d4c945d5523425",
+      "sha256": "053e0d86d5886ef2a6b0c208da18757c567506c8b0095c5367ca6833b094fc17",
+      "bytes": 2903
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "8a5885a9fa60a310c92b02cb1ce7360d42eea458aa6e91e4f39edab8885e97cb",
+      "sha256": "0b8fba7d7bbf355288712b8463a98934f5d5f99b38c6d366314641f95d4dc633",
+      "bytes": 2904
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "d2b0bf192487535c0d601b30ee19cb488e5368a5716be1903bdf8b1a969ae04f",
+      "sha256": "4374488b76166e3d647a2abba2f2909b7987b14035314717c32218dfc92954e9",
+      "bytes": 2905
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "cf5a075b432a03a915c9e935b0c448265bd02084b311d7f60f4ba51f0acecd23",
+      "sha256": "8f945628b92267d21fcde9ecac9e2a8e41d8116a0a9a9c8f1c1b6be9e1eeaa17",
+      "bytes": 2904
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "f4589c414d2ced7efc8a4385a5370e3d0ebe2ec70fc889504d809dfeae8e19db",
+      "sha256": "76a902c9448f3ae1c6f8f77b103a2433736fa7a47df4dacb620e4dc3e2efc1d0",
+      "bytes": 2905
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "8fc0d25eaa9eec25aca6bb464a239253e5209da3218474d5b9e695cc64f35d93",
+      "sha256": "ef15f5085a75baa4c972f318596c4504c16e77f8a9615994a131fe41955ebe50",
+      "bytes": 2502
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "6aea282d05b15787eb7b10492e143d51ef30b1fb78870ca806e2a0bdf5bc0eeb",
+      "sha256": "432890988209d2d1b204f01e9cac84bd40ccce6abfcec1947525f848c846c03b",
+      "bytes": 2422
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "60e09cf8ea2caf6669e99e736de59709843a5474c3d2d0041d312432ae9d8da4",
+      "sha256": "538cd33e7d7e64f43c0312335c86586cc4480d8681f6cc2e892adb4cc7161035",
+      "bytes": 2917
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "9b6f91109f37ec8d7d766f26c045e19210606b81614c6f9d078915b6a1284bec",
+      "sha256": "f6b152e5b6548022052530620e3abca1aaada92f572139a4e1371ec1dde43042",
+      "bytes": 2903
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "f65bfcce45e13a49729eeadd366643c7c25d9d4b84d9591e21365a2092c266a5",
+      "sha256": "13b6df71aeb59d23efc8994f453261b90df04695f16079a8ac2da09414cae605",
+      "bytes": 2907
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "2d1ae460d5c4affa87d6dfd7dbec35e1d180d6c792474564f28495601cf12e34",
+      "sha256": "81c2a2253b77f83fab6055582784be45542cadbc579a8c74717a48cf9ddb5a14",
+      "bytes": 2908
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "52f7dcde6f401b78c56ff313f6869cdfb0cbfe53f75be733e396fcd29aa859c9",
+      "sha256": "9fe750c1048211c13dfcd194bb7aa06ee310dfb6b77dc1f4032ba783d0ffe6fe",
+      "bytes": 2910
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "bcd1231deed6cbc27c0d1fcc294433650bcef506f4894f48aa8f18fbfc1f02dc",
+      "sha256": "093385d06cd5239ce68102a5bdf0b0c284a0bc70841a906c27a342ce606a3dca",
+      "bytes": 2522
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "54c367869e74648cac12dd5269b976cf094e3e680d914bb9733996dacd938102",
+      "sha256": "11408c9f5a450c52e398f39adf715d18c71581e00b02a22c28e0d4c0fc395072",
+      "bytes": 2520
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "292754063974dbd20ba5c07b209e90d63603d8fe099415cbb88b0e7aafcc9ffa",
+      "sha256": "39ef646dade26a43eccbc4f2cfd02c2ab65f8d59aaa2f32c7b5d118e88b6ea2e",
+      "bytes": 2065
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "6ab98e02fb2a0a6104b87960a25a8455d661aedfb08e243a435a6ee21bc82128",
+      "sha256": "cb03a1eade2d9604d1d4e6d908b4b9d77743a4c738687b188578c85433a7942c",
+      "bytes": 2896
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "1340458e8746f4555057d2437c9ab5960285383d0541e0fbfaf61ef17a6aa3d2",
+      "sha256": "445b0f592ae159c616d94f8ca4162edf7cc226ca078d9ee9cc5853f27634a81b",
+      "bytes": 2896
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "d205a3b029b5a30d1002ebf1359531c3cfd799a3e9edf48087f961e6a3475168",
+      "sha256": "fb298be638fbc91fe0601508a5fcd2a967d91ef47c618901f41d995d71d9c921",
+      "bytes": 2894
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "73949b30cdc89fee9cdbe7f42a194a6c33b2006bfb2f82bd39cba2df106e6675",
+      "sha256": "bc079b8541c564e58b0ce2db29f13f0f8445067eb84e0344088d7c2534720a79",
+      "bytes": 2898
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "b47d438f3dc29df745d6c0836d9ba95f2a54ff5cd2ab9e4ddc4ccdfac14a9b3d",
+      "sha256": "3a939831a1f44c1f737726b7cf18d34ffec3d0f63f9175ba1e70a19977a38ce7",
+      "bytes": 2898
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "00fb35ecebbab79755ddd4138640cc46c64be7a8ac4c36ed6a2d004b3550c005",
+      "sha256": "bd604128b40aab0179dd4e5700395dd0c3bdba4b140291d699c38ac5e6090941",
+      "bytes": 2869
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "91b200e6eb31d31a3cc009d6701c6abea2515f8bfa4b8c2499149eacfe26cce2",
+      "sha256": "1bedbcc6f0be9593ca5f936e119b65c97d700d78040d567c50a47c3e7bd523b4",
+      "bytes": 2894
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "69ab8bd91851b5075bca2c70fe2f448d6091fb7c78f0eb5e22c681ad558d579e",
+      "sha256": "2ed6b040cef0336c51ba1345859df878c7edd99c003ceec898c2f9cae3d6ae52",
+      "bytes": 2497
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "9b9db19cd15419a22acfd421eb47bfb9dff4929da53da25b0afd0c01973f32f9",
+      "sha256": "bdfd9dc2580798a8a33a5310dbeab6da79dd6e45311bb4e129ed260498a5d67c",
+      "bytes": 2903
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "bb61ab0f51dbae36b593971cbd14e6e695a6c27e85b69c29f0920f7d9b72fbb5",
+      "sha256": "db04994b8e9ef392cf578449168c013a1214627b01db4897bb63f224da52cd8d",
+      "bytes": 2898
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "e0181843ee1c8d593bb2148fd1610905d38e6def73c75b09cd0523676003519f",
+      "sha256": "6aa7f997344095fef08afa1863a12a52f4c53f60660e5bc17bc7616f31c7f0db",
+      "bytes": 2899
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "0dfd4af81ca8acea672deffe5d28ccc83271bb14d74a1f015e243150b8defbb5",
+      "sha256": "6b733a9d7fd73043319c82d257179801267453b41327a9296adcafb3fa9538df",
+      "bytes": 2899
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "b599fdb15690b7af5bf20f1f74f7c2bb3cce2e47d2b0eaff2b4dfe5add5b5f0e",
+      "sha256": "342eacc3d34a0eca5e6429736153e562c9d3dd83262c3436d08a0ba361ca2d62",
+      "bytes": 2902
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "681b5123cce3814f1e991f871fbd126be6c8cba1839f21f1eacedb063da2f2f4",
+      "sha256": "9e186e684d161eea28d46874ad47863d1e0e8df0de05600bceb42c6ff0b93c4d",
+      "bytes": 2509
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "15b6c5d953e8ec2c298b316a211d976ac39c83e7ea22ddaf63e507aec921c1e5",
+      "sha256": "95575af68dd57287649a8cdcb2032ff4f2056c5623dbb5e0038fb8380d614ac7",
+      "bytes": 2509
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "fb0b54b0f5bb6d4f36ec4660f2435f43fc75abb9e8f331079669ba9aed0263bc",
+      "sha256": "2a85db797f7b965f11acd16143c942d25efbfcc1d4388283acf80f4d3c0ee676",
+      "bytes": 2193
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "0c12ad3aece95d40cd8f817cd82d898702e77c929c9d84377eb91ccf19367ed3",
+      "sha256": "0b40b0fff891cb1bc9cc8972f8d72166b5d90e1948127f74eb9d62f0e07c9117",
+      "bytes": 2737
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "70fef08cdd86dd6b49a711e9bfe1af69bae7400fa30d375632b41802dd0e3583",
+      "sha256": "d780dda92525455e0ed70e0d3b0be19167146aa89f1d9b1d23f509e1bd75576e",
+      "bytes": 2707
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "926b923cd215157cc03cdcebd2d4ed86e6ee604e166b6d8d246380e8f3d4ba09",
+      "sha256": "58cb64a4880f84d52136a6bad51c8fdc7f541d2510f404878567391a8d02bdf6",
+      "bytes": 2729
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "00b846dae0ca821f432ec84fa507523cfec47e75dd3e884118dbab9cc411f725",
+      "sha256": "b081fba4bd39100d64455d1b1bd912ec7d2bb711c75d05a2ed3e029ea0e5e13b",
+      "bytes": 2705
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "bb01bb633cb5fdd47d9aa2dd543c6929378a9f530eb2bf264a1fbfe32bf964f0",
+      "sha256": "328f8feeda17133b02b9404147b73bc051e19ed018ec5756382cb8387176a98c",
+      "bytes": 2732
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "24e46fd29899eea3fe30c18a359a0189a3bd0b7de4802ee17b87da03881fc5d8",
+      "sha256": "cf036130800ac8ca9abd79136893c5ff379c61589b93b43378a66acb9366b62a",
+      "bytes": 2737
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "c4f7cbfcb737b8cd3d544b55aca957e5e8042518446c37c8a6b43efc269845f0",
+      "sha256": "fa7330e1bc33478bb171b892ba1d0e40d2d61a80772c1e9775a88008c5c2fe86",
+      "bytes": 2707
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "9419a104eb5605e43417fcd34f66642113986dcbfcf6597b013c4cbb6b1f271f",
+      "sha256": "6110c17436e94cc778f41fe1285b7ba16c329b0509470ed301fb64196cad2626",
+      "bytes": 2334
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "18ee1d20d32d3f6c868008485c80104450748cbf3c787ce5f2b0669ad217ada4",
+      "sha256": "7b6baa0d6d54fac35cbc0c399c1f1e3f4b716da83fad88306f043a345ced67b8",
+      "bytes": 2704
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "55c8e699fc845270544877127e06ce7864fd96801825c39e4e068641ca057ddc",
+      "sha256": "3f3925f6ac0198795e8fcbe3236985be6d98dc6630fbf7598f94754425387cfa",
+      "bytes": 2703
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "86453e1a27cc17dc448a25991d925d3bb36f40c34d8476e4c6688a925f7f3458",
+      "sha256": "ad8f739c32b48f8960d1293666f788349aa4753ed848625d0f20a25972b72f57",
+      "bytes": 2731
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "c6cdf4425df6b9e498d0a2be8ead44801177fdf9392a15920a0b1cc9682d9631",
+      "sha256": "7d9ae0e004e6aa976688f557abe7910fb61da25115d2f9c250fc015eae10e931",
+      "bytes": 2735
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "0c7478ab5139dfad94f78e6f7044fe5b5b2cc8c594684742877b4882532840a3",
+      "sha256": "fa695b32cd1e7a801dec11a7bc690ba448d450b4f7b29f40836936940b327ddc",
+      "bytes": 2709
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "1aa3b33cf7875be2592db21ddc4566a468988d2b705dda1d8225f0f88f82ea92",
+      "sha256": "e9c41e39984dfd7fe05411d6a1a81eb8528a0a1cf465b7ec5f4efae28f09b9ec",
+      "bytes": 2333
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "7c8f45e187f640dc37016ac308ccfbb8a86b22afc971e216f053a38353484617",
+      "sha256": "e0919d1f4a9eb7443b9d47727bfa5741c07da49a45ef5c0c924b50f0706fbb10",
+      "bytes": 2331
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "abcaa6be2bf71c8a0b019ced999d0a2ff636349535d713a6c642c0ad33ffef7c",
+      "sha256": "93e0dbb309fe502f8b810998feea27a572382a2763dce477c9845ea6e93d9df2",
+      "bytes": 1987
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "79497dfc8498783b5fcbf79c2691bf38637842a4ebceb5d157debf903b335f91",
+      "sha256": "db4905214d415e8468a9a6b8389b1738062bdbbd3c07e1bbedf1bb4f0ca9d66f",
+      "bytes": 81
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "cf15251f11ba708cfacb85b56fbff7fb2d93adb52513aa7b49bd94978a1dcdcd",
+      "sha256": "db4905214d415e8468a9a6b8389b1738062bdbbd3c07e1bbedf1bb4f0ca9d66f",
+      "bytes": 81
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "ccd11861b8c01f179d5ce9846b8fe50cc08a797576a51c24e0eda1176318a04c",
+      "sha256": "db4905214d415e8468a9a6b8389b1738062bdbbd3c07e1bbedf1bb4f0ca9d66f",
+      "bytes": 81
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "b8bafb0a90f50096fc4c03d71fa8a4db3a4abe17e6130e2e04b4261dfb6ba82b",
+      "sha256": "db4905214d415e8468a9a6b8389b1738062bdbbd3c07e1bbedf1bb4f0ca9d66f",
+      "bytes": 81
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "11663b10d070be07362d4ce25693d5442b753500bc90549b93ec15963b450055",
+      "sha256": "db4905214d415e8468a9a6b8389b1738062bdbbd3c07e1bbedf1bb4f0ca9d66f",
+      "bytes": 81
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "047e948ca191fd1b857be4fdbc3292ec6f8ab0fa5491b0910ea902128e06ab5b",
+      "sha256": "db4905214d415e8468a9a6b8389b1738062bdbbd3c07e1bbedf1bb4f0ca9d66f",
+      "bytes": 81
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "61b702469d5ad9322d45eb824f4dda66c73638effef85e17064dac0cfba56ec1",
+      "sha256": "31342c5ca20f8134d50ae3a3e9adb72e10d6727e2b597a815444f1e457005765",
+      "bytes": 1215
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "63f3f0b100acf15ff76f2a86dc54709b2ea7a614f4db60794e975a511ef315fe",
+      "sha256": "19d7a72af9801953febcd3097e6bda580a818ea266281be3cedc43611c7ccce1",
+      "bytes": 2337
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "203b90f7d2589febb11ce87670b0cd970e973b595a7b475fb494de743a6167a2",
+      "sha256": "489d5d168cca8d0e38bc7cd3153b80bd09dae4e2e9bf2d91ae66d06420e1b9d8",
+      "bytes": 2714
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "23da06f9558122bac67669e4dd427a321a74ce52c3812f4c8cf9366a2f693d4f",
+      "sha256": "716a33fde01cf7c7880b073cc4db12d2b455d275dc735191b85d4f9f3cc3f958",
+      "bytes": 2707
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "4d0f47c9449e90f964fa86a058341fe4acabc96d278d1d711693329fb71f934e",
+      "sha256": "a8845af86922fb45bff637947e8fa423f09ba8c1863b7857ee656e630c76b764",
+      "bytes": 2710
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "539936e64c5759ab6bd11655b17b804579dfcb1b8f52ac8f59dfc509c7b48630",
+      "sha256": "1e3992a2890ca1e7cfb35271c497cf102359b515a2e8727c57b061d4a7192293",
+      "bytes": 2713
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "19c05a94795037e495b3c443bacae3b2ac5ebfece181cfb53a67b52730c87a66",
+      "sha256": "4a2cad697857c654b88cd8dccf6cf3f60bcc5fdf2135a24449dc9e9972230955",
+      "bytes": 2713
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "3b99f3c31e55ac78bae6e16601f01446af3c279f8106e74bf3c25b3fa844b825",
+      "sha256": "254596bcc63c1fb2b94c4870b21e5897bffa513baa5436c6ddde200f2788bf1e",
+      "bytes": 2349
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "f946b7c6f4f6ace83656723e735c0537a65f9b0bc838795149d96f6c0cdaa959",
+      "sha256": "b26d13fd6dd21e5fbca1cea45de51ee3ea239e680534f3cfc3629f5e6b2f6b98",
+      "bytes": 2349
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "9f2a0e6f44bccab166781a35874e91f763d104b32984aea2b03a9a6b6c891118",
+      "sha256": "9039fe724482e8e54557b93bd6231ddc1d3f57fee105e4d493dc029cece657c9",
+      "bytes": 2009
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "064cbdbe5895e93e6e38ebb28b7ee33db9b3c78949d02c9650a78e71dd16bbfb",
+      "sha256": "19755fcc4fa1a78a6433346a99ab94ffb0547381fb284032cc39c5eda05c098b",
+      "bytes": 1581
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "e8e4d2520ed4a352755e740bcc16ff7e45ccd794dbb88b1c64ba6e6fb000c9a0",
+      "sha256": "b5870f8de12980b3a31b77a7767605462edd5eb75a2e3a82022b7e3ba585384b",
+      "bytes": 2622
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "f773cc58a21c0daa0a7ba1909a53ff3ebced383f32b5a37bd800aa09dc8aeb8e",
+      "sha256": "698120ce8e683cdc702fc4e933833b30e23e422b2fe31db81bd3169d3e2bdd45",
+      "bytes": 1559
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "0c92a69c31561a8d705632c6151c0b15be3bcdd2ede2cf3ea9859d342ea84b3f",
+      "sha256": "35af89f3f59620c9686b8d4ce281d6c7228d75eb94992e719e8a7888762eab3e",
+      "bytes": 2323
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "b6790da0fc6ad89c9227f1ca2e09e2713f3c638609e561b616a094384d11a056",
+      "sha256": "3de3cc30123d7ae64b1bea138bd8e7069905f8b44f8f5d76a081e7afe27c8eda",
+      "bytes": 1905
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "2c66d26be30888695ae217919a00131cb3e0c9c17b4845c024921f0d044c4ee6",
+      "sha256": "515781279a3a17fc9f655c77cd7c2b06a4fb48b60cfa405708541bac8242ec5a",
+      "bytes": 2696
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "2353cf93309eb105ef30a4a9a0b5d25d1d1c90864c0380727d115e20c56bab0a",
+      "sha256": "d2db6de78030cdb33b3ef79e5e4c91eb2f6b55ddce6edb79a2305cfdb6549cfa",
+      "bytes": 2653
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "80baf6982d2592e538222e09dae0f560d7ac2de9afb327cafc64b1031ae24b80",
+      "sha256": "17c90a8c975bed01b0a94f98dffe0fab927e68802670bb3809938675bcd106e1",
+      "bytes": 1082
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "59116e20375a20ad6dc40ab4fb2d5165e7717e7c673529fdf1cb707a1e5ead93",
+      "sha256": "ea56ba1bb36d45e71dda105d14fa539f2d7f9f1ab53d60be92307417a8747efe",
+      "bytes": 1581
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "726aa8d783dc56ecb6c241b38cf57049cea8e1347cb14abcd971f8d51201f6eb",
+      "sha256": "73df2e82f965974c74851cc28c09575cabb8dbc8553bb49142a6af3e9caecaaf",
+      "bytes": 2277
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "1007544c45a3db6a734e3d88667801420f50989a383fcf0b87e24d2186604910",
+      "sha256": "6e4913404e32413a6e0bb9900b67de32bc0ce2216159b8a0b073a9fd066ae725",
+      "bytes": 1951
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "950003208b27bd2aa911b41d128da24e242fa46d4b26a8aaa39fc70aa37fb5d3",
+      "sha256": "6e869e2d0a213e8239f1d561fe922717d6bfc9a66259286b059fd8e875dce059",
+      "bytes": 1208
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "63bc062f15e39305d12c425d108f064705b76a328f6fc50686715d3d3e6db8c3",
+      "sha256": "0ff9a1642e9a9fb6aa495748672fc892c7f4486601f385658ff427574a0b518c",
+      "bytes": 2605
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "3c005aaca6c895d02349ce8f0844e6b4f49ba50cb4a2d15330e5698ce4fba392",
+      "sha256": "c82333131aa7df8f584a172a9da30585ab8881010f22d72de2d4dc348d9ebd0d",
+      "bytes": 2326
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "924cfd1d576ae4d96c8eaf14ea20d421a9e5325cd855f284ce5cae3a6e4deb19",
+      "sha256": "2408a4862388c540ffd84b4a60478d96e45210fa7096aea5c15d6eef6bd08af9",
+      "bytes": 1954
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "323870edc6f32dd3239462a10bef27a3923258ef1de8e25107421ba7b24431de",
+      "sha256": "d4c1d94a9cc0213e6a1754b246847a9ea26a2381854401c4e5704979d6cb37cd",
+      "bytes": 905
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "a523747b1dc781ce2e90e514036e52d6e76e333a9d410cdc4612f65355566a1a",
+      "sha256": "f47dbd08f3eda8a71e2f21b22f84b3f8df7dbff85b03fa511155452049ba5923",
+      "bytes": 2688
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "465f10a4fe4b54025a576d9bcaf277437b81a7e0d1a8d2f9019fa12ced8e2b50",
+      "sha256": "313386911cc381a882992456e279724494e61f8544ea7f7368b28e5ac03acb58",
+      "bytes": 2737
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "9f60a13c0aaac094fcf7abcabace7a9c803b6ccb51f883174a42e5bfdbf4aa32",
+      "sha256": "0f81624ba13c9d2590581af86f7cc07734d61341c7dee8155f932d5c2632511b",
+      "bytes": 2706
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "b17cb42d77760ca531ad0ff5c3bddff087964b2883c8e044c04bb12e9a1cba5d",
+      "sha256": "96eb2cb15c15c32d97223a11ab77339ae5902a41fde2bdd778e25769540a9e1f",
+      "bytes": 2738
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "8ac63ee4063fedbd1bd7fb0024f388762be8f366cdddc221a6740927dc1aa837",
+      "sha256": "b3d59d1aea70eb269280f9a6729b69b2e2d3e5b0425e88d3597a646062240f4d",
+      "bytes": 468
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "6e87a32eff9426af8977dfd28313d07a7fb13f346eeb4fe2cc909f69e543f544",
+      "sha256": "db4905214d415e8468a9a6b8389b1738062bdbbd3c07e1bbedf1bb4f0ca9d66f",
+      "bytes": 81
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "f441fb8937af85583e0671907502a086045afd2f6bfe01766e53e5ca650f0ea5",
+      "sha256": "0690dfa8c1ab4ed422c26abdb4af71243c6926e69b26cbac4c225913dece23bc",
+      "bytes": 841
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "e17e38fa73572e647cc2c17eb4c4101664a8530ee7b57c4badf9720bff5e85cb",
+      "sha256": "93e1c24668b5a226069bd84ccc200be540df459bbbaa2bbb30bb429d16cf5c53",
+      "bytes": 2336
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "54fb471aa27a3a993987537f925b8cd5d5dbfc3a649e7758229f9b9a727515d2",
+      "sha256": "5c5e399a0fca7fba57dfb9ad84dbd2aaaf597e01e6d93d64469b3276773f11da",
+      "bytes": 2715
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "367d671a4c2373b1b00752cb387d9ecc6fe5a5f952e1166b8b10367483f791a3",
+      "sha256": "bab6681a9adb912aa2633d9b5f89a506be83292f00ff0e2cde9d8ecc0fb8f664",
+      "bytes": 2709
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "30ab3caa4430a7180c4fcf7edf6970058242767238f8430076c090e0d1c382af",
+      "sha256": "a5a53fe19f0ec818a2edaee6a881da2aeb512e63ea4348af8edbb60878c8b526",
+      "bytes": 2709
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "6d4f70ca40e258197177813f8a5fd8d346661aabf33d3dc6122aab06ca0abad9",
+      "sha256": "98ebd6b89090e4c8bdd7e2364fa679e760f8a9d61e15ad7f57931f08d2084d83",
+      "bytes": 2739
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "464e946177ccaa76f54bceaf1a65cb516a8c079fe8eb09a390a6dcd5f36bbeef",
+      "sha256": "08efd0ae1f04889426f6e832723c5ae176cf8db10ea86eeaecb1cb6781b3684b",
+      "bytes": 2712
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "2b8e9039ee23636387d21279fbdf82150ce3fcb6151b5fa3517db8b1a7a00500",
+      "sha256": "413f70cb9b153c09260bf49ee32bf0e02b4378024245c56a9c69bf3a42c5aed3",
+      "bytes": 2350
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "2f0138d582a598035e7bc311a27c67247a459c8a51318e33dc04987bbceba7a5",
+      "sha256": "b999a17f02adedefcc9bfecb87eba561507594ec4c0487c7050639226b11bd30",
+      "bytes": 2350
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "cea0571d25d4c3bf421913007fbe587ad4881322221c3930319fac5df9786c1a",
+      "sha256": "99bea062dda510fab32be319ec10d61062ba5173e7e984f6ef52bf63b5fccafa",
+      "bytes": 2008
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "2822cee933014241a9ce5749016a6044717b610cc73a177cbe66897b359832c6",
+      "sha256": "303d8e19b1e899c3e1068fcb244af647773aa6e08aff6244ced801bae19a5f00",
+      "bytes": 2905
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "69b60d2f029714ddabeabca63aefc22e5fe98287ebef0f6be014afb46bb2282b",
+      "sha256": "7c8eb4d6c91ee9ec8943cecd8befe9c9d71bd91f51b78fb0ff6283958b228894",
+      "bytes": 2903
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "baa628a5aae34b87c87bcbefccfb4555b0664a1bd70ae69353ee5ddef3953a0f",
+      "sha256": "10b859ff001a6471d31656f9821198b6513c008de4f1af49e3ab8d4159ade97d",
+      "bytes": 2899
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "2409ad913cc857c262680fe5ae58c065b03c71d686c9638f90535d5f3e25eb88",
+      "sha256": "ad633847f7ac6cf944ceb115ecbf0c801939cb0d6ef84681aa457f3ed50f257d",
+      "bytes": 2902
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "81e7a6c4ebaf28f43d78f9f14f0f3b82e4296167011f30c0bfdd035aab13a13c",
+      "sha256": "448a9958eece407b6f94e67368d3596bc98087a831e8efc534583dcbc3b9f6a6",
+      "bytes": 2904
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "bd557986e4589a9da2b7042510ac25a4dcb0f51e419c30ac9a445fe5064f27ab",
+      "sha256": "97988812b8d2fc31e7159813312f33a6d4700f9fd34a58a7a272fcf6a9124dd9",
+      "bytes": 2898
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "c6496c3e200c4066ff888d1cd1785020be36bd22102fc5c3eaec330eac0803b2",
+      "sha256": "1d9ada82225d2fb9ab342a94227e765b7fba81e7b599750120ece5045ebde8b4",
+      "bytes": 2899
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "050e9ed236ec78796f627407df0fd47259169c6f6dcca818ccff6edf790ff8ec",
+      "sha256": "ca06779666449be0e00393b020d92425e5957bd6e3cfee41c0f33c02d7d5055d",
+      "bytes": 2504
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "94d92ff78c588e19e0304c57c1ed31ca961a94d118b9342f5badb07154f733ab",
+      "sha256": "01014e90f4a4490ffa5440991acc9e761d140e3dd9a56bc2a1fd8009bb769579",
+      "bytes": 2906
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "5461c49161e447bcaf126a5e42ae7fdd8ba55027758ec109f6975d44295f6787",
+      "sha256": "42def4923685c36cc6dfb5fc6b2645d39f8549405a02891262439f0f7f368e37",
+      "bytes": 2905
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "a69a9a582b1a971e44a4fb96d375dbb223f391411ab3394d0c3e222ee588998f",
+      "sha256": "9afcd50c3abbbc06472e0a267ee74e22b5192450721b373b5a9a3b4315486b6a",
+      "bytes": 2906
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "d0a85f7b55dcab47c07471515b6002a5b5b8da2e1c5cb49d85c4d76474158671",
+      "sha256": "584fca4bec04cde569ba9eb8cc1d073b5493578c4c90baa5fc8c05ed567ee7b9",
+      "bytes": 2907
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "c2164e848934805e0b4aa7ad8422875c3ed9e1751539c70e2465d2f8becd0c11",
+      "sha256": "5bb4076436fd2e6d141b3e1f7c9a36412a048af0506621c956a82ac112a5e85d",
+      "bytes": 2907
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "0c82d9bb34e45b02fd63eff2ef0c2ecfcf449ab42a5ae895e6c15c5f6f26c408",
+      "sha256": "55b1c42671cff123767df74a62309e4ea2c03ffd2cad5ad75b738cbc7c762e4e",
+      "bytes": 2507
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "17a5c5583324e385a3d59484cd45b881f084f7bff54f389801e1521780f4aa77",
+      "sha256": "4f1060f1300cea2fc2e57068d48e30daddc739bf6bfead2050e6ee5157dcdb63",
+      "bytes": 2508
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "f4439aec99be2cb2c359983aafec87f86a0dc74dadff5f960d0e792ecdf72ba9",
+      "sha256": "c364abd223456150ae19d3e8b8df01e008df5811632a68560e7a284e213e105f",
+      "bytes": 2200
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "603377260c6579f4cbf36064fd971f488692611cb360411769bf851e81b77d55",
+      "sha256": "454adbe7227f3c8344bc129e2ea4bc8427655055580cfed51816a262d259d461",
+      "bytes": 2687
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "a90dca14e0050b1c709dac33a70b836ecafebe10b17503a6f629fb42a901bf8d",
+      "sha256": "d5d8a237a477de025d0458150a079e3fceefbc87283510c1078ffcb40ee506fc",
+      "bytes": 2704
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "0cabb77e44b2d17ff5d162e56a5399e3d38ea71209fda3dd63a3e42203b939bc",
+      "sha256": "d040134abc68a5d9add42433570f2d67610f4b94c2af57a82cdf8bdf71037e85",
+      "bytes": 2702
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "40c83a39e34d5d2667a8ee5f08eed086169e56d91ed79e88bc1fb66fcd8304e9",
+      "sha256": "b758a1bffd33932cd40d8c6c098c89a83a1d696744557b31933e5a04ca5cf23a",
+      "bytes": 2707
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "6bfddca24481a312ec957fcd8e46b9050c0966eafcd9006a0ad86a68892f162e",
+      "sha256": "cd71d2f012be6de045616b0a1bf4a6b482268c4410d6813c72278cd2041c5153",
+      "bytes": 2704
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "a6b0cb99ced4eb6c7781b59624ab48f1ca619721ee61d0633e6fe606eab937c1",
+      "sha256": "b25d2e60c516aa7b6e2865c5b825d69a7d909d57aa4365e6f68c22e8d30298d4",
+      "bytes": 2705
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "f312e4ef6329f19679a02725ff0f9fb988783b052ae58ae56a8542bc4feaad99",
+      "sha256": "8437a1c71a74b0746756d2526a14632a23dc46e6bcf535ffbcff399550386785",
+      "bytes": 2703
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "ae2c18b99d1678685fe05acc0907bcd812492fafedf1259d88ad1f7208684dd3",
+      "sha256": "1072d342e9fd12bb8e2b7b7c2b9bb63a4c0c2bcfe497a33498b036d5ce4ab075",
+      "bytes": 2332
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "1e9db18a2f3acd0a88c20d47c9a982bf26acba9dae2f315d78f34584aeec7543",
+      "sha256": "413b9451a97fa0a02c1bdf971092b384af92984fc9cdae88192ae792e91dbf82",
+      "bytes": 2711
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "8dba0f4f2eb7723d78fbf5c2f0d4ef691c24cab5910979af5739e815814da211",
+      "sha256": "48fdd5d0e7ac74a458ab16fa269223b31c68228339faa10e3373fb9fc320ddfd",
+      "bytes": 2705
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "635c7b2d52622643d73d5aa66abe132a1ba0e749cd80bea5c1fa99158ae2ebc1",
+      "sha256": "524596e6402672cf34017664accef9570f538902885226c885e5be2fd3339b6a",
+      "bytes": 2707
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "a985f62ab7b238408c3ceae7aaa778cba03219d8e95d3ed06c500e7aee5b2a88",
+      "sha256": "ac3f5ae69c6b0cc22ee57d6d2cb83ca8e366fac447939c5e6d555c05b3db05c5",
+      "bytes": 2736
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "850c1ad0ed635749ae4c0bd32055274f7466024e7fe2ce8842a2316d33aca766",
+      "sha256": "0a5cbb570eb51f84752533eefc4ba877e4bc51378f57786582a92764f558fcb6",
+      "bytes": 2707
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "37e651f2ae799a440e00fc1d6822d2c867a498b7dccdc4a139d4f8f5ee0a48de",
+      "sha256": "64852a7781cfd637ec27087ec8424b98c5779a8a98c5dbf797e133435bcf1815",
+      "bytes": 2336
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "b0d1e981fa2d910cd292586874a4980dfc8675eb3c9b3faf2977cc1fdce7c785",
+      "sha256": "3c8654f5d0b321770777fc85708c3126eb9c6f357bb7326fa14ab69e7a129b19",
+      "bytes": 2336
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "5ebc27b4c24405bdd5575a4b48a0dad53b83878397f90425e16a160c57e42a0e",
+      "sha256": "48179610df937239977e84d7dbaf3430691d3b39bf3fa2ea9120d579cb0731d4",
+      "bytes": 1995
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "61840f2c867381159c0fd6a9f169551feb8ed5f4a028ca8f13522d05d90159a3",
+      "sha256": "673b4e3cbe32c5ed58caccbe592c022746c48fd2611a0242b8b0938ad9161ef5",
+      "bytes": 2684
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "18fd7a8ce4d4dcade8a549bf15da78e0501d17b0383f12d1bc2e9ffdfe69be44",
+      "sha256": "e12072e088cb72495615282d312df577a587ac937d6fcad922a56fecb52114bc",
+      "bytes": 2707
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "158e864588ee6e81d101e5ba8b5c37b92a3d6e2ef3dbf4478a0006e7e561476c",
+      "sha256": "5405c9643a7993d6a1832a71bfc694f4ec9385c23191da2b1574c5ef145662ad",
+      "bytes": 2705
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "8b8523a058e1a3c63973444c20b54779473e7e2f04a45af9ec38c1ba71d3acdc",
+      "sha256": "65207cae7d655ef027c836a261bb30c4a9f97b6744011013b5c26ee6936f33f2",
+      "bytes": 2709
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "8a31aa5ce95c31d3444b96ae26136897e3aa29b5d04a12f94909d4995233f894",
+      "sha256": "3a56c8efa2f905dd736c7fcf28bbba7a95fb11e771b05b2ebafeae23506b47f3",
+      "bytes": 2708
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "23d80b284ec68cc7f644e6d49a9b21acfcc7e0bd95c7a73d55b564d051a294de",
+      "sha256": "3add55ba87de2f740eb14f8fd7c02c0346329cc43268d32fea72c774bb922ac9",
+      "bytes": 2703
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "651c9a4ff801c43bdf4354846479ec0e77dc33950b719785f4a0b8005573a511",
+      "sha256": "672dd4a30f56671039a51826fd1a22f391a7a776a7c7287479889e7d30dd5681",
+      "bytes": 2704
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "278efd8cc4fc28a0659f5ff7aa025d77511fdf9766870389747d551c720aaf89",
+      "sha256": "3a24b3713ffb25201912118c7e653f10a9ca625ad1ab9b2c3cb08339ac0392fa",
+      "bytes": 2333
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "74c366a1cfb7d1a141cf608c4d14a2919df922af1b66f92ad8fd00434b3a821c",
+      "sha256": "d0c29f3d129751d3ac151d121f4798a94b15cf517bd5bf0fb6348a8a3f4c382c",
+      "bytes": 2710
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "7a0b008b5d6d1a7313ced7bf9dd6ad466033be17e69f3f4dab99a543525e73a9",
+      "sha256": "8374019ca70ed6360b9409ddd5367016b013880f6444852de87bc0ecb6da84a1",
+      "bytes": 2706
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "6353b5b40060ef82c72318dc91cb37d888c6592ea3a0df20b2d577f4b4d1dfa7",
+      "sha256": "dc5cbe6fd0f72513a2709d460caac9f96a68cf16bea0f8e4f4bbc7e54e1ad842",
+      "bytes": 2709
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "79cc1eb0d43cfe68fbff6ca6e402b0ad176ad5b1cb2f8011f7cf2c99b9494bfd",
+      "sha256": "9b9fd9202ffb400613bbecb4e972332ca18db496cd11673e4b1a573afc3a1f0d",
+      "bytes": 2708
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "277b2fc07f7f5922deaade9b4e6e8192a350acfa66ebcf8224ce019751c3a1ba",
+      "sha256": "d1daade6e0de198404a9d3261c8cc75fa3b74036033b8ffbcd1f5fe241867394",
+      "bytes": 2706
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "007cf31433e41c9aef6487179fd63f0a4af46b86d210d8aa62a8875448a216c5",
+      "sha256": "834cae867553b8d554011d949b41a62b9dfbde3cb3fa56b26445ff593e38c875",
+      "bytes": 2333
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "975e241744be39ffb41716716360ea511204c832ca4d7791324e6132311dbf15",
+      "sha256": "957410d8ef9633e516ee48c6b471ea8da7a9db5b669bc56fd5e36e03773bdc1f",
+      "bytes": 2332
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "4db0a096eb24b8e15ee049a33067528349f068d198f5643751124fef4b27feea",
+      "sha256": "3ae7a7652d334ce5684713ea823e4482fc6b03719e3b0326a02a5a4e78b010ab",
+      "bytes": 1997
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "d43b672a9fc09e7506c04d0cabdeb7bf7ed99159b06246569eda59d52941b33b",
+      "sha256": "32b22cc9071f5a8a58a955d2dfb235d550c78df21f3b7f5e7bc7181785d8afd8",
+      "bytes": 2708
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "c21aec446694686074fef9e6adb0d2c6e5345e0a3cd06eb28d0c4b2a9675c375",
+      "sha256": "98bbd731b382eaeb3fbee0279b96b0b4e4926c9db255e4ed3dfc3fe1aecc3588",
+      "bytes": 2706
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "7c426849f84648c625a00da989846d87cab1610cb5f442edc149fe8624a404e6",
+      "sha256": "8e9a937f8224e0f75ba7fbe6e97651b1e99127caf83b5c644c48f142eb5055b6",
+      "bytes": 2703
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "6660a4ddfe8977bc2b7b1714b11f1ab6301dd94d54d80a6982acf702b783c279",
+      "sha256": "940ada93602b43c1433ee3d4e7a6fd79d6fc0e1c92fc7188c7472f8c49f7a32d",
+      "bytes": 2709
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "78523039fa6f0b58dbde7ed8574c0eee3b150807ede6308408dcbb54f004a8ae",
+      "sha256": "74b09d05ccd3088f2b63b499a9b1510d7fa53a88da950c345887b0dc042d7d53",
+      "bytes": 2706
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "33c398803abdd45f95a134a92c4aeaaf1d0fcdf1c371978c410d886d7003ebde",
+      "sha256": "37c43a30e0c2976139fa9f2bed54d7785f5c7f0349418f3ac57c394c8ff1b0c4",
+      "bytes": 2706
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "a315e93c8ee596131d1d1c2160d04763efaa8d11a3eecc34a1b32bea7762add2",
+      "sha256": "243de00df346a0b6a7f826946631445b6b089077ac23e707b4b2b3a69347a46f",
+      "bytes": 2760
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "3dbe74735520a9f54314f4fe51f5e492fb7ac4a830edd5dd8324e3ef30e3a071",
+      "sha256": "f1882fe9ca5f5ad789db97247ca799ab5fd480abcf2dec1ceeeda15f42943058",
+      "bytes": 2334
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "60af948598abd5dd56b9c1296ee6433012ff2d6d909926de43af45f9764ae60d",
+      "sha256": "7979aa5358eaaa9b066794257537ce10be3f061cb395aeba06a4f5a735393b15",
+      "bytes": 2713
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "fdb9c7d6e29990542d1f073f2166f4255155143455a599541ee56330a56df8f2",
+      "sha256": "709bd206dd22ee88c93ab072b1a4d3101f083706428354dd9d23d8b40774ae65",
+      "bytes": 2706
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "2e890291f47b95eefce4ef68b102802b1cb7db432e2fef6c1ca0bd2c89dfc5d2",
+      "sha256": "318ab64093ad0469e7d435ee96ab4c178f8544c2bd5345ff8fa906f58ea36463",
+      "bytes": 2708
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "a4ff9aaa22bc5dd87d8c7678a89ea20c81f69a5a12489f85947a8f21519c9168",
+      "sha256": "82c95695f20b902e223a912ad7eb8e65b064b8cc2d3efa0801073737cc2fa17e",
+      "bytes": 2710
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "c371b8b8883b2d965b85b15d30e86f697655a0078fa6a1e08ba5845683c3795f",
+      "sha256": "73db94317b35e67744aa352d6443e0ff3cd1683f9bb4210ff8a68e9331beb668",
+      "bytes": 2708
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "63a444e1b1153a8e7bf755fa15b0d764ced6654f51e73708ef3dfec05b046e67",
+      "sha256": "181ae8856c23e93d52cd4eaeed2e77c6e3b71fb8d78a9f4e2cb25844bceceabc",
+      "bytes": 2341
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "d7cf253b9df35ff033ea92a398b8f53443a84335ed79146807713bb50dc79a1e",
+      "sha256": "b9805f5253b11433f1524b505d7b9f19685b8013fa4606ef00a06bd5526c1ff6",
+      "bytes": 2342
+    },
+    {
+      "directory": "data/raw/salerno_campus",
+      "relative_path_sha256": "5ddd43b2f8f7cb5d21db230edd3ecb41cb91bb2d14e2d10fcad9d54df3087053",
+      "sha256": "b081d68ec683650a66217765a99653daeec7da65a997d6b177502f43b8da5f8c",
+      "bytes": 1998
+    }
+  ]
+}

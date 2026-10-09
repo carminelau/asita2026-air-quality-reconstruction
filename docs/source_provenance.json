@@ -1,0 +1,10 @@
+{
+  "prepared_date": "2026-10-09",
+  "manuscript_sha256": "0b6dec7f4109e5556ac4415f0303be962b709aea91a683d2cbdb8efeafe91439",
+  "original_script_sha256": {
+    "daily_spatial_validation.py": "56a30fc32a152ef1d47dff52cd39ea7fd9c74c8db99ff85152daa1ba14be0287",
+    "arpac_it1508_replication.py": "b75b43fec4252226f86dc94a24613f18d7eae0dcfaa8b3feb996e89182391664",
+    "salerno_campus_case_study.py": "b0de7eade37be3aba312254774cf82aca32d3a41c4d2af7ecad83dbd9393094a"
+  },
+  "scope": "Main analyses preserved byte-for-byte; figure adapters change paths only; input observations and per-record predictions excluded; RF tuning supplement not found in the supplied analysis archive."
+}

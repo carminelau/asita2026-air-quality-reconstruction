@@ -1,0 +1,517 @@
+[
+  {
+    "file": "milan/metrics.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "climatology"
+    },
+    "expected": {
+      "mae": 4.989,
+      "rmse": 6.391,
+      "bias": -0.821,
+      "r2": 0.399,
+      "n": 244,
+      "dates": 42,
+      "stations": 4
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "milan/metrics.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "cams_raw"
+    },
+    "expected": {
+      "mae": 7.015,
+      "rmse": 8.357,
+      "bias": -6.692,
+      "r2": -0.027,
+      "n": 244,
+      "dates": 42,
+      "stations": 4
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "milan/metrics.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "arpa_nearest"
+    },
+    "expected": {
+      "mae": 4.831,
+      "rmse": 5.5,
+      "bias": 0.75,
+      "r2": 0.555,
+      "n": 244,
+      "dates": 42,
+      "stations": 4
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "milan/metrics.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "arpa_idw"
+    },
+    "expected": {
+      "mae": 4.082,
+      "rmse": 4.736,
+      "bias": 0.036,
+      "r2": 0.67,
+      "n": 244,
+      "dates": 42,
+      "stations": 4
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "milan/metrics.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "lcs_idw"
+    },
+    "expected": {
+      "mae": 7.914,
+      "rmse": 10.074,
+      "bias": -3.5,
+      "r2": -0.492,
+      "n": 244,
+      "dates": 42,
+      "stations": 4
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "milan/metrics.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "ridge_regional"
+    },
+    "expected": {
+      "mae": 5.63,
+      "rmse": 6.696,
+      "bias": 0.6,
+      "r2": 0.341,
+      "n": 244,
+      "dates": 42,
+      "stations": 4
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "milan/metrics.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "ridge_arpa_spatial"
+    },
+    "expected": {
+      "mae": 12.101,
+      "rmse": 16.473,
+      "bias": 8.62,
+      "r2": -2.99,
+      "n": 244,
+      "dates": 42,
+      "stations": 4
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "milan/metrics.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "rf_regional"
+    },
+    "expected": {
+      "mae": 4.801,
+      "rmse": 5.897,
+      "bias": -0.779,
+      "r2": 0.489,
+      "n": 244,
+      "dates": 42,
+      "stations": 4
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "milan/metrics.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "rf_arpa_spatial"
+    },
+    "expected": {
+      "mae": 4.832,
+      "rmse": 5.597,
+      "bias": 0.681,
+      "r2": 0.539,
+      "n": 244,
+      "dates": 42,
+      "stations": 4
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "milan/metrics.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "rf_regional_arpa"
+    },
+    "expected": {
+      "mae": 4.697,
+      "rmse": 5.432,
+      "bias": 0.032,
+      "r2": 0.566,
+      "n": 244,
+      "dates": 42,
+      "stations": 4
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "milan/metrics.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "rf_full"
+    },
+    "expected": {
+      "mae": 4.669,
+      "rmse": 5.425,
+      "bias": 0.078,
+      "r2": 0.567,
+      "n": 244,
+      "dates": 42,
+      "stations": 4
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "milan/metrics.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "ridge_regional_arpa"
+    },
+    "expected": {
+      "mae": 5.935,
+      "n": 244
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "milan/metrics.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "ridge_full"
+    },
+    "expected": {
+      "mae": 6.231,
+      "n": 244
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "milan/metrics.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "arpa_idw_p2"
+    },
+    "expected": {
+      "mae": 4.29,
+      "n": 244
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "milan/metrics.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "arpa_idw_p3"
+    },
+    "expected": {
+      "mae": 4.377,
+      "n": 244
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "milan/paired_bootstrap_ci.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "rf_full",
+      "baseline": "arpa_idw"
+    },
+    "expected": {
+      "mean_mae_difference": 0.587,
+      "difference_ci_low": 0.213,
+      "difference_ci_high": 0.97,
+      "site_sign_flip_p": 0.125
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "milan/paired_bootstrap_ci.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "rf_full",
+      "baseline": "rf_regional_arpa"
+    },
+    "expected": {
+      "mean_mae_difference": -0.027,
+      "difference_ci_low": -0.079,
+      "difference_ci_high": 0.016,
+      "site_sign_flip_p": 1
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "campania/metrics.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "idw"
+    },
+    "expected": {
+      "mae": 3.848,
+      "n": 485,
+      "dates": 42,
+      "stations": 6
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "campania/metrics.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "rf"
+    },
+    "expected": {
+      "mae": 4.938,
+      "n": 485,
+      "dates": 42,
+      "stations": 6
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "campania/metrics.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "idw_p2"
+    },
+    "expected": {
+      "mae": 3.983,
+      "n": 485,
+      "dates": 42,
+      "stations": 6
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "campania/metrics.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "idw_p3"
+    },
+    "expected": {
+      "mae": 4.098,
+      "n": 485,
+      "dates": 42,
+      "stations": 6
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "campania/paired_comparisons.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "rf",
+      "baseline": "idw"
+    },
+    "expected": {
+      "mean_mae_difference": 1.089,
+      "difference_ci_low": 0.141,
+      "difference_ci_high": 2.371,
+      "station_sign_flip_p": 0.1875,
+      "geo_cluster_sign_flip_p": 0.25
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "campania/sensitivity_metrics.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "idw"
+    },
+    "expected": {
+      "mae": 3.666
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "campania/sensitivity_metrics.csv",
+    "select": {
+      "scope": "overall",
+      "pollutant": "all",
+      "model": "rf"
+    },
+    "expected": {
+      "mae": 5.021
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "campus/metrics.csv",
+    "select": {
+      "pollutant": "pm10",
+      "model": "network_median"
+    },
+    "expected": {
+      "mae": 1.583,
+      "n": 371,
+      "devices": 20,
+      "days": 20
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "campus/metrics.csv",
+    "select": {
+      "pollutant": "pm10",
+      "model": "idw"
+    },
+    "expected": {
+      "mae": 1.789,
+      "n": 371,
+      "devices": 20,
+      "days": 20
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "campus/metrics.csv",
+    "select": {
+      "pollutant": "pm10",
+      "model": "random_forest_fixed"
+    },
+    "expected": {
+      "mae": 2.143,
+      "n": 371,
+      "devices": 20,
+      "days": 20
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "campus/metrics.csv",
+    "select": {
+      "pollutant": "pm2_5",
+      "model": "network_median"
+    },
+    "expected": {
+      "mae": 1.429,
+      "n": 370,
+      "devices": 20,
+      "days": 20
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "campus/metrics.csv",
+    "select": {
+      "pollutant": "pm2_5",
+      "model": "idw"
+    },
+    "expected": {
+      "mae": 1.662,
+      "n": 370,
+      "devices": 20,
+      "days": 20
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "campus/metrics.csv",
+    "select": {
+      "pollutant": "pm2_5",
+      "model": "random_forest_fixed"
+    },
+    "expected": {
+      "mae": 1.873,
+      "n": 370,
+      "devices": 20,
+      "days": 20
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "campus/paired_bootstrap_ci.csv",
+    "select": {
+      "pollutant": "pm10",
+      "model": "network_median"
+    },
+    "expected": {
+      "estimate": -0.206,
+      "ci_lower": -0.537,
+      "ci_upper": 0.056
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "campus/device_signflip_test.csv",
+    "select": {
+      "pollutant": "pm10"
+    },
+    "expected": {
+      "exact_two_sided_signflip_p": 0.148,
+      "devices": 20
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "campus/paired_bootstrap_ci.csv",
+    "select": {
+      "pollutant": "pm2_5",
+      "model": "network_median"
+    },
+    "expected": {
+      "estimate": -0.233,
+      "ci_lower": -0.515,
+      "ci_upper": 0.007
+    },
+    "tolerance": 0.00051
+  },
+  {
+    "file": "campus/device_signflip_test.csv",
+    "select": {
+      "pollutant": "pm2_5"
+    },
+    "expected": {
+      "exact_two_sided_signflip_p": 0.076,
+      "devices": 20
+    },
+    "tolerance": 0.00051
+  }
+]

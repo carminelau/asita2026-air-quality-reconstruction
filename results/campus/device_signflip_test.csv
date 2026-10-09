@@ -1,0 +1,3 @@
+pollutant,devices,devices_network_median_better,devices_idw_better,ties,mean_device_delta_mae,median_device_delta_mae,exact_two_sided_signflip_p,exact_permutations,unit
+pm10,20,12,8,0,-0.2059493959487396,-0.12258809619757512,0.14847183227539062,1048576,device-reported ug/m3
+pm2_5,20,13,7,0,-0.2276906828086957,-0.16360233062679416,0.07639884948730469,1048576,device-reported ug/m3

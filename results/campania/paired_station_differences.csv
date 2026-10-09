@@ -1,0 +1,73 @@
+model,baseline,station_id,station_name,pollutant,n,mean_mae_difference
+climatology,idw,IT0936A,Avellino AV41 Scuola V Circolo,PM10,42,0.856471708082552
+climatology,idw,IT0936A,Avellino AV41 Scuola V Circolo,PM2.5,42,-0.19812375788173733
+climatology,idw,IT1504A,Salerno SA22 Ospedale Via Vernieri,PM10,35,0.9121175764927135
+climatology,idw,IT1504A,Salerno SA22 Ospedale Via Vernieri,PM2.5,34,1.5496383158733213
+climatology,idw,IT2210A,Solofra Zona Industriale,PM10,42,5.819086878190042
+climatology,idw,IT2210A,Solofra Zona Industriale,PM2.5,42,2.8705505413593624
+climatology,idw,IT2213A,Cava dei Tirreni Stadio,PM10,42,6.499518343276812
+climatology,idw,IT2213A,Cava dei Tirreni Stadio,PM2.5,42,3.335411789584046
+climatology,idw,IT2214A,Nocera Inferiore Scuola Solimena,PM10,42,7.282498292802377
+climatology,idw,IT2214A,Nocera Inferiore Scuola Solimena,PM2.5,42,3.6670543662065107
+climatology,idw,IT2227A,Avellino Scuola Alighieri,PM10,40,-0.31347863773327456
+climatology,idw,IT2227A,Avellino Scuola Alighieri,PM2.5,40,-0.9954120973858579
+nearest,idw,IT0936A,Avellino AV41 Scuola V Circolo,PM10,42,0.8963563545534202
+nearest,idw,IT0936A,Avellino AV41 Scuola V Circolo,PM2.5,42,0.4983634726212727
+nearest,idw,IT1504A,Salerno SA22 Ospedale Via Vernieri,PM10,35,2.0732867792345986
+nearest,idw,IT1504A,Salerno SA22 Ospedale Via Vernieri,PM2.5,34,0.9258522696658635
+nearest,idw,IT2210A,Solofra Zona Industriale,PM10,42,5.958637689458551
+nearest,idw,IT2210A,Solofra Zona Industriale,PM2.5,42,3.627026687590604
+nearest,idw,IT2213A,Cava dei Tirreni Stadio,PM10,42,-0.8288037812735157
+nearest,idw,IT2213A,Cava dei Tirreni Stadio,PM2.5,42,-0.25747663930676123
+nearest,idw,IT2214A,Nocera Inferiore Scuola Solimena,PM10,42,-1.1688620038940296
+nearest,idw,IT2214A,Nocera Inferiore Scuola Solimena,PM2.5,42,-0.33522118462062106
+nearest,idw,IT2227A,Avellino Scuola Alighieri,PM10,40,-0.18064191987363196
+nearest,idw,IT2227A,Avellino Scuola Alighieri,PM2.5,40,-0.13934520125026859
+rf,idw,IT0936A,Avellino AV41 Scuola V Circolo,PM10,42,2.162616797259438
+rf,idw,IT0936A,Avellino AV41 Scuola V Circolo,PM2.5,42,-0.38019071858037345
+rf,idw,IT1504A,Salerno SA22 Ospedale Via Vernieri,PM10,35,0.2866947804422291
+rf,idw,IT1504A,Salerno SA22 Ospedale Via Vernieri,PM2.5,34,-0.3085660052375276
+rf,idw,IT2210A,Solofra Zona Industriale,PM10,42,5.854722882628219
+rf,idw,IT2210A,Solofra Zona Industriale,PM2.5,42,2.197972696089902
+rf,idw,IT2213A,Cava dei Tirreni Stadio,PM10,42,1.8556392616779935
+rf,idw,IT2213A,Cava dei Tirreni Stadio,PM2.5,42,0.5008446046589989
+rf,idw,IT2214A,Nocera Inferiore Scuola Solimena,PM10,42,1.9505638331331416
+rf,idw,IT2214A,Nocera Inferiore Scuola Solimena,PM2.5,42,0.4479971946016522
+rf,idw,IT2227A,Avellino Scuola Alighieri,PM10,40,-1.326303378439324
+rf,idw,IT2227A,Avellino Scuola Alighieri,PM2.5,40,-0.7739759467729472
+ridge,idw,IT0936A,Avellino AV41 Scuola V Circolo,PM10,42,6.962341979803563
+ridge,idw,IT0936A,Avellino AV41 Scuola V Circolo,PM2.5,42,2.934949172824717
+ridge,idw,IT1504A,Salerno SA22 Ospedale Via Vernieri,PM10,35,1.4165104810511355
+ridge,idw,IT1504A,Salerno SA22 Ospedale Via Vernieri,PM2.5,34,0.44336500018751857
+ridge,idw,IT2210A,Solofra Zona Industriale,PM10,42,6.550258921500258
+ridge,idw,IT2210A,Solofra Zona Industriale,PM2.5,42,2.5010642775873912
+ridge,idw,IT2213A,Cava dei Tirreni Stadio,PM10,42,2.306054885229769
+ridge,idw,IT2213A,Cava dei Tirreni Stadio,PM2.5,42,1.098472942971132
+ridge,idw,IT2214A,Nocera Inferiore Scuola Solimena,PM10,42,0.29382206068581307
+ridge,idw,IT2214A,Nocera Inferiore Scuola Solimena,PM2.5,42,0.26035864407153125
+ridge,idw,IT2227A,Avellino Scuola Alighieri,PM10,40,-4.570630632189156
+ridge,idw,IT2227A,Avellino Scuola Alighieri,PM2.5,40,-0.8754980756790294
+idw_p2,idw,IT0936A,Avellino AV41 Scuola V Circolo,PM10,42,0.8332835418819383
+idw_p2,idw,IT0936A,Avellino AV41 Scuola V Circolo,PM2.5,42,0.49275460109475866
+idw_p2,idw,IT1504A,Salerno SA22 Ospedale Via Vernieri,PM10,35,1.1382270415458944
+idw_p2,idw,IT1504A,Salerno SA22 Ospedale Via Vernieri,PM2.5,34,0.393713202178243
+idw_p2,idw,IT2210A,Solofra Zona Industriale,PM10,42,0.6657915945165974
+idw_p2,idw,IT2210A,Solofra Zona Industriale,PM2.5,42,0.475965834177662
+idw_p2,idw,IT2213A,Cava dei Tirreni Stadio,PM10,42,-0.5401977003302153
+idw_p2,idw,IT2213A,Cava dei Tirreni Stadio,PM2.5,42,-0.30180354924012603
+idw_p2,idw,IT2214A,Nocera Inferiore Scuola Solimena,PM10,42,-0.7628016328108626
+idw_p2,idw,IT2214A,Nocera Inferiore Scuola Solimena,PM2.5,42,-0.2840409161667936
+idw_p2,idw,IT2227A,Avellino Scuola Alighieri,PM10,40,-0.1742190253338675
+idw_p2,idw,IT2227A,Avellino Scuola Alighieri,PM2.5,40,-0.13442109944345995
+idw_p3,idw,IT0936A,Avellino AV41 Scuola V Circolo,PM10,42,0.8783514494841175
+idw_p3,idw,IT0936A,Avellino AV41 Scuola V Circolo,PM2.5,42,0.5041879918764527
+idw_p3,idw,IT1504A,Salerno SA22 Ospedale Via Vernieri,PM10,35,1.7222956095020676
+idw_p3,idw,IT1504A,Salerno SA22 Ospedale Via Vernieri,PM2.5,34,0.6928860059024465
+idw_p3,idw,IT2210A,Solofra Zona Industriale,PM10,42,1.3873965986917718
+idw_p3,idw,IT2210A,Solofra Zona Industriale,PM2.5,42,0.9062448221795103
+idw_p3,idw,IT2213A,Cava dei Tirreni Stadio,PM10,42,-0.7078522875933503
+idw_p3,idw,IT2213A,Cava dei Tirreni Stadio,PM2.5,42,-0.3693694214980837
+idw_p3,idw,IT2214A,Nocera Inferiore Scuola Solimena,PM10,42,-1.0563789983524396
+idw_p3,idw,IT2214A,Nocera Inferiore Scuola Solimena,PM2.5,42,-0.34955000885099363
+idw_p3,idw,IT2227A,Avellino Scuola Alighieri,PM10,40,-0.18039675274939512
+idw_p3,idw,IT2227A,Avellino Scuola Alighieri,PM2.5,40,-0.13915565494156348

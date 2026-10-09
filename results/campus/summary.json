@@ -1,0 +1,54 @@
+{
+  "arpac_overlap_end": "2026-08-11T00:00:00",
+  "best_models": [
+    {
+      "bias": 0.3930053908355798,
+      "days": 20,
+      "devices": 20,
+      "mae": 1.5826819407008086,
+      "median_absolute_error": 0.8900000000000006,
+      "model": "network_median",
+      "n": 371,
+      "pollutant": "pm10",
+      "r2": 0.3841164921460365,
+      "rmse": 2.476927398940599
+    },
+    {
+      "bias": 0.3750945945945944,
+      "days": 20,
+      "devices": 20,
+      "mae": 1.4290135135135136,
+      "median_absolute_error": 0.8825000000000003,
+      "model": "network_median",
+      "n": 370,
+      "pollutant": "pm2_5",
+      "r2": 0.42531648677447653,
+      "rmse": 2.167713750799539
+    }
+  ],
+  "daily_rows": 1895,
+  "devices": 20,
+  "nearest_arpac_distance_km": 7.539527874883264,
+  "regulatory_ground_truth_for_lodo": false,
+  "squares": 3,
+  "study_end": "2026-08-13",
+  "study_start": "2026-05-01",
+  "test_start": "2026-07-24",
+  "variables": [
+    "aqi",
+    "direzione_vento",
+    "intensita_vento",
+    "intesita_vento",
+    "no2",
+    "nox_index",
+    "num_devices_sniffed",
+    "pm1",
+    "pm10",
+    "pm2_5",
+    "temperatura",
+    "umidita",
+    "voc",
+    "voc_index"
+  ],
+  "verdict": "publishable as an internal network-reconstruction pilot; not an absolute/regulatory accuracy validation"
+}

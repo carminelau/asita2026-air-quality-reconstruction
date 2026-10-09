@@ -1,0 +1,42 @@
+{
+  "retrieved_at": "2026-08-14",
+  "provider": "ARPAC - Agenzia Regionale Protezione Ambientale Campania",
+  "dataset_url": "https://dati.arpacampania.it/dataset/dati-rqa-giornalieri-validati",
+  "station_metadata_dataset_url": "https://dati.arpacampania.it/dataset/rete-di-monitoraggio-della-qualita-dell-aria",
+  "files": [
+    {
+      "path": "arpac_rqa_2026_05.csv",
+      "source_url": "https://dati.arpacampania.it/datastore/dump/0ba62229-ccea-4d99-b022-432c925ea4b6",
+      "bytes": 11516265,
+      "sha256": "3a40a7fdce426ac391b207464f1877e8c797b3a298a75096ba2e3e8d75aaa2ce"
+    },
+    {
+      "path": "arpac_rqa_2026_06.csv",
+      "source_url": "https://dati.arpacampania.it/datastore/dump/5a2113b6-ec71-47a0-9195-54840b8f4206",
+      "bytes": 11788756,
+      "sha256": "a56a0a0ff0ee62b7bf02b7b5fe0486602d9b830bcc2ffb23b3b7939eb3513416"
+    },
+    {
+      "path": "arpac_rqa_2026_07.csv",
+      "source_url": "https://dati.arpacampania.it/datastore/dump/f916d525-04c8-4537-8f9f-0e44abc46612",
+      "bytes": 11891142,
+      "sha256": "4df89ab3948e6939ab35a859e32f21114b74fdecefab0787ea991486640457b7"
+    },
+    {
+      "path": "arpac_rqa_2026_08.csv",
+      "source_url": "https://dati.arpacampania.it/datastore/dump/2ab14584-0235-4752-b53d-ce8bfb4a6bcd",
+      "bytes": 4194138,
+      "sha256": "066b393f4554258e0f7f0411a92124365a321390781907e54b2df0f12e92da48"
+    },
+    {
+      "path": "arpac_station_metadata.csv",
+      "source_url": "https://dati.arpacampania.it/dataset/96eba21b-4191-4985-9205-e3b1800ad42a/resource/28bce378-02fe-4ff0-bc09-f598378389e6/download/metadati-stazioni-rqa-1.csv",
+      "bytes": 12548,
+      "sha256": "592147a6f96a37fdce4de9d389741e96e2f862ff0fe35bfac2e63548d669767d"
+    }
+  ],
+  "notes": [
+    "The monthly resources contain validated hourly RQA observations despite the dataset title referring to daily data; the August file is a month-to-date snapshot retrieved on 14 August 2026.",
+    "The station metadata CSV contains at least one unquoted comma in an address; consumers should validate row width before positional parsing."
+  ]
+}

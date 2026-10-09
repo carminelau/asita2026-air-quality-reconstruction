@@ -1,0 +1,75 @@
+{
+  "profile": {
+    "analysis_grain": "one ARPA station-pollutant-local-day observation",
+    "application_grid_cells": 263,
+    "cams_native_supports": 8,
+    "complete_hourly_covariate_fraction": 0.9910554561717353,
+    "dates": 90,
+    "duplicate_keys": 0,
+    "end": "2022-07-29 00:00:00",
+    "excluded_stations_outside_domain": 0,
+    "low_cost_sources": 15,
+    "low_cost_sources_with_60_eligible_days": 1,
+    "rows": 559,
+    "rows_by_pollutant": {
+      "pm10": 325,
+      "pm2_5": 234
+    },
+    "start": "2022-05-01 00:00:00",
+    "station_pollutant_pairs": 7,
+    "stations": 4,
+    "stations_by_pollutant": {
+      "pm10": 4,
+      "pm2_5": 3
+    },
+    "target_missing": 0,
+    "weather_native_supports": 8
+  },
+  "protocol": {
+    "bootstrap_block_days": 7,
+    "bootstrap_iterations": 2000,
+    "max_grid_distance_m": 5000.0,
+    "min_low_cost_hours": 18,
+    "min_train_days": 35,
+    "seed": 42,
+    "step_days": 14,
+    "test_days": 14,
+    "validation_days": 7
+  },
+  "software": {
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "python": "3.12.13",
+    "scikit_learn": "1.9.0",
+    "scipy": "1.18.0"
+  },
+  "idw_sensitivity": {
+    "alternative_powers": [
+      2,
+      3
+    ],
+    "maximum_sources": 8,
+    "minimum_distance_m": 100.0,
+    "primary_power": 1
+  },
+  "claim_assessment": {
+    "primary_baseline": "arpa_idw",
+    "primary_candidate": "rf_full",
+    "reasons": [
+      "minimum_daily_coverage_not_met",
+      "mae_improvement_below_5_percent",
+      "paired_interval_not_entirely_favourable",
+      "site_level_evidence_not_conclusive",
+      "improvement_not_present_for_each_pollutant"
+    ],
+    "relative_mae_skill": -0.14377443312314542,
+    "required_relative_mae_improvement": 0.05,
+    "strong_ml_result": false
+  },
+  "leakage_checks": {
+    "empty_test_folds": 0,
+    "heldout_in_train_folds": 0,
+    "heldout_in_validation_folds": 0,
+    "test_time_overlap_folds": 0
+  }
+}
