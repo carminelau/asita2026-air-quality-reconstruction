@@ -29,7 +29,8 @@ downloaded Square daily payloads are provenance evidence, not model targets.
 Source portals:
 
 - ARPA Lombardia: https://www.dati.lombardia.it/d/nicp-bhqi
-- CAMS Europe regional reanalysis: https://ads.atmosphere.copernicus.eu/
+- Copernicus Atmosphere Monitoring Service (CAMS) Europe regional reanalysis:
+  https://ads.atmosphere.copernicus.eu/
 - Open-Meteo historical weather: https://open-meteo.com/en/docs/historical-weather-api
 - Sense Square Sensy: https://sensesquare.eu/prodotti/sensy/
 

@@ -57,16 +57,21 @@ def main() -> int:
     parser.add_argument("--data-root", type=Path, default=ROOT)
     args = parser.parse_args()
     names = ["milan", "campania", "campus"] if args.experiment == "all" else [args.experiment]
-    try:
-        results = [run(name, args.data_root.resolve()) for name in names]
-    except (ValueError, subprocess.CalledProcessError) as error:
-        print(f"Reproduction failed: {error}")
-        return 1
+    results = []
+    failed = False
+    for name in names:
+        try:
+            result = run(name, args.data_root.resolve())
+            result["status"] = "passed"
+        except (ValueError, subprocess.CalledProcessError) as error:
+            failed = True
+            result = {"experiment": name, "status": "failed", "error": str(error)}
+        results.append(result)
     destination = ROOT / "generated/reproduction_checks.json"
     destination.parent.mkdir(exist_ok=True)
     destination.write_text(json.dumps(results, indent=2) + "\n")
     print(json.dumps(results, indent=2))
-    return 0
+    return 1 if failed else 0
 
 
 if __name__ == "__main__":

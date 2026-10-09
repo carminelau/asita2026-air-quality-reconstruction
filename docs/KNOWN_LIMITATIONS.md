@@ -16,9 +16,19 @@
 4. **Figures.** Publication figures are supplied as frozen artifacts. The
    Campania plot can be regenerated from public station-level aggregates.
    Milan/campus maps require restricted observations and original geometries.
-5. **Platform effects.** Numerical comparisons allow floating-point tolerance;
+5. **Campus refit discrepancy.** Identical input tables, device metadata, and
+   split assignments reproduce the six baseline metric rows and both exact
+   median-versus-IDW sign-flip tests. Random Forest MAE instead becomes
+   2.1512769064 (PM10) and 1.8743286254 (PM2.5), versus archived values
+   2.1433984520 and 1.8725866690. Bootstrap intervals also differ, including
+   those of the fixed baselines. The cause is unresolved. The local runtime
+   reports Python 3.12.14 versus archived 3.12.13; this observation does not
+   establish causation. The runner retains its strict tolerance and reports
+   failure for the campus refit. Published aggregates have not been replaced
+   to conceal the disagreement. See [VERIFICATION.md](VERIFICATION.md).
+6. **Platform effects.** Numerical comparisons allow floating-point tolerance;
    exact figure bytes can depend on fonts and rendering libraries. Hash
    verification of published files is distinct from numerical reproduction.
-6. **Archive identifier.** No Zenodo DOI has been minted by this repository.
+7. **Archive identifier.** No Zenodo DOI has been minted by this repository.
    A public GitHub URL is available, but an archival DOI requires a separate
    deposition step by the authors.

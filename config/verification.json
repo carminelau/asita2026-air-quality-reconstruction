@@ -1,0 +1,229 @@
+{
+  "date": "2026-10-09",
+  "runtime": "3.12.14",
+  "experiments": [
+    {
+      "experiment": "milan",
+      "status": "passed",
+      "matched_statistic_files": 3
+    },
+    {
+      "experiment": "campania",
+      "status": "passed",
+      "matched_statistic_files": 4
+    },
+    {
+      "experiment": "campus",
+      "status": "partial",
+      "comparisons": [
+        {
+          "file": "metrics.csv",
+          "expected_rows": 8,
+          "actual_rows": 8,
+          "matched_rows": 6,
+          "baseline_rows": 6,
+          "mismatches": [
+            {
+              "pollutant": "pm10",
+              "model": "random_forest_fixed",
+              "fields": [
+                "mae",
+                "rmse",
+                "bias",
+                "median_absolute_error",
+                "r2"
+              ]
+            },
+            {
+              "pollutant": "pm2_5",
+              "model": "random_forest_fixed",
+              "fields": [
+                "mae",
+                "rmse",
+                "bias",
+                "median_absolute_error",
+                "r2"
+              ]
+            }
+          ]
+        },
+        {
+          "file": "bootstrap_ci.csv",
+          "expected_rows": 8,
+          "actual_rows": 8,
+          "matched_rows": 0,
+          "baseline_rows": 6,
+          "mismatches": [
+            {
+              "pollutant": "pm10",
+              "model": "idw",
+              "fields": [
+                "ci_lower",
+                "bootstrap_median",
+                "ci_upper"
+              ]
+            },
+            {
+              "pollutant": "pm10",
+              "model": "nearest",
+              "fields": [
+                "ci_lower",
+                "bootstrap_median",
+                "ci_upper"
+              ]
+            },
+            {
+              "pollutant": "pm10",
+              "model": "network_median",
+              "fields": [
+                "ci_lower",
+                "bootstrap_median",
+                "ci_upper"
+              ]
+            },
+            {
+              "pollutant": "pm10",
+              "model": "random_forest_fixed",
+              "fields": [
+                "estimate",
+                "ci_lower",
+                "bootstrap_median",
+                "ci_upper"
+              ]
+            },
+            {
+              "pollutant": "pm2_5",
+              "model": "idw",
+              "fields": [
+                "ci_lower",
+                "bootstrap_median",
+                "ci_upper"
+              ]
+            },
+            {
+              "pollutant": "pm2_5",
+              "model": "nearest",
+              "fields": [
+                "ci_lower",
+                "bootstrap_median",
+                "ci_upper"
+              ]
+            },
+            {
+              "pollutant": "pm2_5",
+              "model": "network_median",
+              "fields": [
+                "ci_lower",
+                "bootstrap_median",
+                "ci_upper"
+              ]
+            },
+            {
+              "pollutant": "pm2_5",
+              "model": "random_forest_fixed",
+              "fields": [
+                "estimate",
+                "ci_lower",
+                "bootstrap_median",
+                "ci_upper"
+              ]
+            }
+          ]
+        },
+        {
+          "file": "paired_bootstrap_ci.csv",
+          "expected_rows": 6,
+          "actual_rows": 6,
+          "matched_rows": 0,
+          "baseline_rows": 4,
+          "mismatches": [
+            {
+              "pollutant": "pm10",
+              "model": "nearest",
+              "fields": [
+                "ci_lower",
+                "bootstrap_median",
+                "ci_upper"
+              ]
+            },
+            {
+              "pollutant": "pm10",
+              "model": "network_median",
+              "fields": [
+                "ci_lower",
+                "bootstrap_median",
+                "ci_upper",
+                "probability_model_better"
+              ]
+            },
+            {
+              "pollutant": "pm10",
+              "model": "random_forest_fixed",
+              "fields": [
+                "estimate",
+                "ci_lower",
+                "bootstrap_median",
+                "ci_upper",
+                "probability_model_better"
+              ]
+            },
+            {
+              "pollutant": "pm2_5",
+              "model": "nearest",
+              "fields": [
+                "ci_lower",
+                "bootstrap_median",
+                "ci_upper",
+                "probability_model_better"
+              ]
+            },
+            {
+              "pollutant": "pm2_5",
+              "model": "network_median",
+              "fields": [
+                "ci_lower",
+                "bootstrap_median",
+                "ci_upper",
+                "probability_model_better"
+              ]
+            },
+            {
+              "pollutant": "pm2_5",
+              "model": "random_forest_fixed",
+              "fields": [
+                "estimate",
+                "ci_lower",
+                "bootstrap_median",
+                "ci_upper",
+                "probability_model_better"
+              ]
+            }
+          ]
+        },
+        {
+          "file": "device_signflip_test.csv",
+          "expected_rows": 2,
+          "actual_rows": 2,
+          "matched_rows": 2,
+          "baseline_rows": 2,
+          "mismatches": []
+        }
+      ],
+      "rf_mae": [
+        {
+          "pollutant": "pm10",
+          "archived": 2.1433984519633595,
+          "refit": 2.1512769063508217
+        },
+        {
+          "pollutant": "pm2_5",
+          "archived": 1.8725866689898887,
+          "refit": 1.8743286253633862
+        }
+      ],
+      "input_tables_and_splits_identical": true,
+      "cause": "not established",
+      "reference_python": "3.12.13"
+    }
+  ]
+}

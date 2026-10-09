@@ -7,7 +7,8 @@ Pietro Battistoni, and Daniele Sofia.
 The repository preserves the analysis code and aggregate evidence for three
 experiments: daily reconstruction at unseen Milan regulatory stations,
 independent ARPA Campania IT1508 replication, and internal reconstruction in
-the University of Salerno low-cost network. It distinguishes spatial
+the University of Salerno low-cost network. Comparisons include inverse-distance
+weighting (IDW) and Random Forest (RF). The study distinguishes spatial
 generalisation from internal network consistency. The results do not establish
 universal algorithm superiority or regulatory accuracy of low-cost devices.
 
@@ -19,7 +20,8 @@ universal algorithm superiority or regulatory accuracy of low-cost devices.
 | Export comparison tables from archived aggregate results | Yes | No |
 | Run methodological tests on synthetic observations | Yes; install requirements | No |
 | Regenerate the Campania comparison figure | Yes; install figure requirements | No |
-| Refit the three main experiments and compare all output statistics | No | Yes; verified research snapshots |
+| Refit Milan and Campania and compare output statistics | No | Yes; verified research snapshots |
+| Run the campus refit and diagnose differences from the archive | No | Yes; full numerical agreement remains unresolved |
 | Regenerate Milan/campus descriptive maps | No | Yes; observations and grid geometries |
 | Reproduce the additional 12-configuration RF tuning sensitivity | Not included | Original supplement must be recovered |
 
@@ -27,6 +29,12 @@ universal algorithm superiority or regulatory accuracy of low-cost devices.
 and per-record predictions are not distributed.** Aggregates, protocols,
 input hashes, original provider download URLs, and source code are included.
 See [data access](docs/DATA_ACCESS.md) and [known limitations](docs/KNOWN_LIMITATIONS.md).
+
+**Validation status:** Milan and Campania refits match all seven checked
+statistics files. Campus baseline metrics and exact sign-flip tests match;
+campus Random Forest metrics and bootstrap intervals differ from the archive.
+The strict campus comparison therefore fails. See the
+[verification report](docs/VERIFICATION.md) for measured differences.
 
 ## Quick verification: no credentials or installation
 
@@ -43,7 +51,9 @@ results; it does not claim to recreate measurements or refit models.
 ## Install the research environment
 
 The main analysis packages are pinned to the versions recorded by the original
-research manifests. The Python reference version is 3.12.13.
+research manifests. The archived Python reference version is 3.12.13. The local
+runtime used for the October 2026 refits reports Python 3.12.14; the campus
+discrepancy has not been attributed to a specific cause.
 
 ```sh
 python -m venv .venv
@@ -86,6 +96,8 @@ tolerance `1e-10`. A successful run records its verification in
 not byte identity of timestamps or platform-specific figure metadata.
 
 ## Main results
+
+MAE denotes mean absolute error.
 
 | Experiment | Reference MAE | Random Forest MAE | Held-out observations |
 | --- | ---: | ---: | ---: |
