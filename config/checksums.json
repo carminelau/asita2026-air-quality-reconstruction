@@ -1,6 +1,6 @@
 {
   ".gitattributes": "80b94f70b1b3c0362ee4c53ede860a8db2a67c08dea60051327175bba6b93667",
-  ".github/workflows/verify.yml": "16427055227e81f0140f34f6d572457b80145d8b73263d66320d02c4ab7f4595",
+  ".github/workflows/verify.yml": "a77ceaa1808fd469b31c5cfb5e4283b69dd5530727b6afbf39ceea3746ebcd67",
   ".gitignore": "7cd783a2365c024822470883f38b1e3377039aae142c22cf3a00fae8619e0f9d",
   ".python-version": "50b10393ce287fb4af7616d016dd16ac1a56412af4d2c74cde7ddc5ad5c78761",
   "arpac_it1508_replication.py": "b75b43fec4252226f86dc94a24613f18d7eae0dcfaa8b3feb996e89182391664",
@@ -20,7 +20,7 @@
   "figures/study_area_milan.pdf": "13aa2ab238f582d15c83d8169dc4edd9e436607baf8fb7b755c5e8318aa6a05b",
   "LICENSE": "d2700fea555605dceeda09ebe5ea265e5c67f1425c9dfd57db3f50e6b8bf41b7",
   "prepare_milan_city_case_study.py": "fc9316c97b16495d31f1a18dc85bbb58951ff10b7a96a183d47e539715f3b8b0",
-  "README.md": "d869214b23613f92c6022a8c5bc0fe406dfc9302b85d3cf5db8a24be60b7f3fc",
+  "README.md": "7b5b2f51d42d693068f56e318551d5ca5a3fd8a4b000a79a4784ea038709a0d4",
   "requirements-acquisition.txt": "9d47885c25f7cd228fae95fdeb9df9cc48f352b41cd70c4bb8a54d61f0a46c2f",
   "requirements-figures.txt": "fc473189a44bdc08f37ca39cd148572dcd9717d592fbe79e7f6ee3407cf90d44",
   "requirements.txt": "b00b41199d303fc210c87aa37238aff6acdfcc8a857344f6d7c74bd8ab2fe8a0",

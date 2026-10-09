@@ -58,7 +58,9 @@ python -m unittest discover -s tests -v
 Optional acquisition scripts require `requirements-acquisition.txt`; publication
 figure checks require `requirements-figures.txt`. The core tests use synthetic
 observations and require no API key. GitHub Actions runs public verification
-and the tests on Ubuntu and Windows.
+and the tests on Ubuntu (Python 3.12.13) and Windows (Python 3.12.10).
+GitHub's Windows runtime catalog does not provide 3.12.13; this CI check uses
+the available 3.12 patch release. The original research runtime remains 3.12.13.
 
 ## Refit the main experiments
 
